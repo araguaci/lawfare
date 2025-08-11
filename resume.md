@@ -3,9 +3,9 @@ layout: resume
 title: Resume
 permalink: /resume/
 description: >
-  Hi, I'm DaeIn Lee.
+  Hi, I'm John Doe.
 hide_description: true
-sidebar: true
+sidebar: false
 order: 5
 left_column:
  - work
