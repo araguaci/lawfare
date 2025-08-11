@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Escândalo do BNDES
+categories: escandalos
+description: Verbas para estatais privatizadas.
+tags: Governo Fernando Henrique (1995-2003),1998
+---
+
+Verbas para estatais privatizadas.
+
+## Detalhes
+- **Governo**: Governo Fernando Henrique (1995-2003)
+- **Envolvidos**: BNDES, empresas.
+- **Consequências**: 
+
+## Links Relacionados
+- [Busca no Google para o título e descrição](https://www.google.com/search?q=Esc%C3%A2ndalo%20do%20BNDES%20Verbas%20para%20estatais%20privatizadas.%20Governo%20Fernando%20Henrique%20%281995-2003%29)
+- [Busca na Wikipedia para o título e descrição](https://en.wikipedia.org/w/index.php?search=Esc%C3%A2ndalo%20do%20BNDES%20Verbas%20para%20estatais%20privatizadas.%20Governo%20Fernando%20Henrique%20%281995-2003%29)
