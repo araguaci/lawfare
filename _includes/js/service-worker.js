@@ -47,7 +47,7 @@ const GOOGLE_FONTS = "{{ site.google_fonts_url | default:'https://fonts.googleap
 // {% endif %}
 
 const SHELL_FILES = [
-  "{{ '/assets/css/hydejack-9.1.6.css' | relative_url }}",
+  "{{ '/assets/css/deepdive-9.1.7.min.css' | relative_url }}",
   "{{ '/assets/js/service-worker.js' | relative_url }}",
 ];
 
