@@ -1,5 +1,96 @@
 {
+  "name": "deepdive",
+  "version": "9.1.7",
+  "description": "Why DeepDive 🌊 Because the format is liquid 💦 😉",
+  "scripts": {
+    "clean": "rm -vf ./assets/js{,/legacy}/*{.map,.min.js,.LICENSE.txt}",
+    "test": "exit 0",
+    "format": "prettier --write '_js/src/**/*.js'",
+    "build": "yarn run clean && yarn run build:js & yarn run build:css & yarn run build:scripts & wait",
+    "build:js": "webpack --mode production --color",
+    "build:js:stats": "webpack --mode production --progress --color --json > stats.json",
+    "build:css": ".scripts/build-css.js",
+    "build:scripts": "./.bash/osx/uglifyjs.sh",
+    "watch": "yarn run clean && yarn run watch:js & yarn run watch:css",
+    "watch:js": "webpack --watch --mode development --progress --color",
+    "watch:css": "yarn run build:css && onchange '_sass/**/*.scss' -e '_sass/**/__*/*' -- yarn run build:css '{{changed}}'",
+    "dev": "yarn run watch",
+    "preversion": "yarn run preversion:js && yarn run preversion:css",
+    "preversion:js": "sed -i '' 's:/assets/js/\\*deepdive-\\*:#<removed/js>:' .gitignore",
+    "preversion:css": "sed -i '' 's:/_sass/\\*/__\\*__/\\*:#<removed/css>:' .gitignore",
+    "version": ".scripts/version.js && yarn run format && yarn run build && git add .",
+    "postversion": "(yarn run postversion:js && yarn run postversion:css) && git add . && git ci -m 'Restore pre-version .gitignore' && yarn run postversion:forward",
+    "postversion:forward": "git branch -f v9 v$npm_package_version",
+    "postversion:js": "sed -i '' 's:#<removed/js>:/assets/js/*deepdive-*:' .gitignore && git rm --cached assets/js/*deepdive-*",
+    "postversion:css": "sed -i '' 's:#<removed/css>:/_sass/*/__*__/*:' .gitignore && git rm --cached _sass/*/__*__/*"
+  },
+  "config": {
+    "port": 4000
+  },
+  "author": "JV conseil <contact@jv-conseil.dev> (https://www.jv-conseil.dev)",
+  "license": "EUPL-1.2",
+  "private": true,
   "dependencies": {
-    "re-template-tag": "^2.0.1"
-  }
+    "@fontsource/noto-sans": "^5.2.7",
+    "@fontsource/roboto-slab": "^5.2.6",
+    "@hydecorp/component": "^1.0.0",
+    "@hydecorp/drawer": "^1.0.0",
+    "@hydecorp/push-state": "^1.0.0",
+    "@juggle/resize-observer": "^3.4.0",
+    "@popperjs/core": "^2.11.8",
+    "@webcomponents/custom-elements": "^1.6.0",
+    "@webcomponents/shadycss": "^1.11.2",
+    "@webcomponents/shadydom": "^1.11.0",
+    "@webcomponents/template": "^1.5.1",
+    "@webcomponents/url": "^0.7.9",
+    "@webcomponents/webcomponents-platform": "^1.0.1",
+    "abortcontroller-polyfill": "^1.7.8",
+    "bootstrap": "^5.3.7",
+    "broadcastchannel-polyfill": "^1.0.1",
+    "core-js": "^3.45.0",
+    "create-element-x": "^1.2.0",
+    "dompurify": "^3.2.6",
+    "intersection-observer": "^0.12.2",
+    "jquery": "^3.7.1",
+    "kv-storage-polyfill": "^2.0.0",
+    "lit": "^3.3.1",
+    "minisearch": "^7.1.2",
+    "rxjs": "^7.8.2",
+    "scroll-into-view-if-needed": "^3.1.0",
+    "tippy.js": "^6.3.7",
+    "web-animations-js": "^2.3.2",
+    "whatwg-fetch": "^3.6.20"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/plugin-transform-class-properties": "^7.27.1",
+    "@babel/preset-env": "^7.28.0",
+    "babel-loader": "^10.0.0",
+    "bower": "^1.8.14",
+    "dedent": "^1.6.0",
+    "depcheck": "^1.4.7",
+    "eslint": "^9.33.0",
+    "eslint-config-prettier": "^10.1.8",
+    "null-loader": "^4.0.1",
+    "onchange": "^7.1.0",
+    "prettier": "^3.6.2",
+    "tar": "^7.4.3",
+    "uglify-js": "^3.19.3",
+    "webpack": "^5.101.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-merge": "^6.0.1",
+    "yargs": "^17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JV-conseil/jekyll-theme-deepdive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JV-conseil/jekyll-theme-deepdive/issues"
+  },
+  "homepage": "https://www.jv-conseil.dev/",
+  "engines": {
+    "node": ">=11"
+  },
+  "packageManager": "yarn@4.9.2"
 }

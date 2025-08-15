@@ -1,1 +1,0 @@
-bundle exec jekyll build --destination D:/app_aragua/lawfare/

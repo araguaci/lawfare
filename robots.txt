@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://www.jv-conseil.dev/sitemap.xml

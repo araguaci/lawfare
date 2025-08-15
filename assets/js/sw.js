@@ -1,4 +1,4 @@
-// Copyright (c) 2020 Florian Klampfer <https://qwtel.com/>
+// Copyright (c) 2023 JV conseil <https://www.jv-conseil.dev/>
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
@@ -16,7 +16,7 @@
 // ⚡️ DANGER ZONE ⚡️
 // ================
 // 
-self.addEventListener("activate", e => e.waitUntil(onDeactivate(e)));
+self.addEventListener('activate', (e) => e.waitUntil(onDeactivate(e)));
 
 async function onDeactivate() {
   await self.clients.claim();
@@ -25,10 +25,10 @@ async function onDeactivate() {
 
   return Promise.all(
     keys
-      // Only consider caches created by this baseurl, i.e. allow multiple Hydejack installations on same domain.
-      .filter(key => key.endsWith(""))
+      // Only consider caches created by this baseurl, i.e. allow multiple installations on same domain.
+      .filter((key) => key.endsWith(''))
       // Delete *all* caches
-      .map(key => caches.delete(key))
+      .map((key) => caches.delete(key)),
   );
 }
 // 

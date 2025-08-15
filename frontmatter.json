@@ -51,8 +51,17 @@
   "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.content.pageFolders": [
     {
+      "title": "drafts",
+      "path": "[[workspace]]/_drafts"
+    },
+    {
       "title": "posts",
       "path": "[[workspace]]/_posts"
+    },
+    {
+      "title": "tse",
+      "path": "[[workspace]]/_posts/tse"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }

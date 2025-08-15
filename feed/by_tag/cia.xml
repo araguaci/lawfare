@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.jv-conseil.dev/feed/by_tag/cia.xml" rel="self" type="application/atom+xml" /><link href="https://www.jv-conseil.dev/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2025-08-14T23:42:32-03:00</updated><id>https://www.jv-conseil.dev/feed/by_tag/cia.xml</id><title type="html">LAWFARE</title><subtitle>**Natureza Investigativa e Agregadora do Conteúdo**
+Análises representadas em investigações sistemáticas de eventos e fatos públicos, compilados a partir de centenas de matérias jornalísticas, relatórios oficiais e fontes documentais disponíveis em domínio público. O objetivo primordial é sintetizar informações dispersas, promovendo uma visão consolidada e analítica dos temas abordados, sem introduzir elementos especulativos ou não verificáveis.
+O conteúdo aqui apresentado limita-se à agregação e organização de dados preexistentes, extraídos de reportagens credíveis, decisões judiciais, relatórios de órgãos como o Supremo Tribunal Federal (STF), Tribunal de Contas da União (TCU) e Ministério Público Federal (MPF), bem como análises acadêmicas e internacionais. Não se trata de produção original de evidências, mas de uma curadoria imparcial para facilitar o entendimento de padrões sistêmicos em corrupção, judiciário e interferências políticas.
+</subtitle><author><name>LAWFARE</name><email>johndoe@example.com</email></author><entry><title type="html">Interferências Judiciais</title><link href="https://www.jv-conseil.dev/estudos/justica/lawfare/interferencias-judiciais/" rel="alternate" type="text/html" title="Interferências Judiciais" /><published>2023-07-21T19:22:22-03:00</published><updated>2025-08-14T14:38:03-03:00</updated><id>https://www.jv-conseil.dev/estudos/justica/lawfare/interferencias-judiciais</id><content type="html" xml:base="https://www.jv-conseil.dev/estudos/justica/lawfare/interferencias-judiciais/"><![CDATA[<ul class="large-only" id="markdown-toc">
+  <li><a href="#interferências-judiciais-no-processo-eleitoral-brasileiro-uma-visão-crítica-2018-2023" id="markdown-toc-interferências-judiciais-no-processo-eleitoral-brasileiro-uma-visão-crítica-2018-2023">Interferências Judiciais no Processo Eleitoral Brasileiro: Uma Visão Crítica (2018-2023)</a>    <ul>
+      <li><a href="#-introdução-contextualização-das-interferências-judiciais" id="markdown-toc--introdução-contextualização-das-interferências-judiciais">🔍 Introdução: Contextualização das Interferências Judiciais</a></li>
+      <li><a href="#-visão-cronológica-evolução-das-interferências" id="markdown-toc--visão-cronológica-evolução-das-interferências">📅 Visão Cronológica: Evolução das Interferências</a></li>
+      <li><a href="#️-abuso-de-autoridade-configurações-legais-e-casos-emblemáticos" id="markdown-toc-️-abuso-de-autoridade-configurações-legais-e-casos-emblemáticos">⚖️ Abuso de Autoridade: Configurações Legais e Casos Emblemáticos</a></li>
+      <li><a href="#-censura-judicial-restrições-à-liberdade-de-expressão" id="markdown-toc--censura-judicial-restrições-à-liberdade-de-expressão">🚫 Censura Judicial: Restrições à Liberdade de Expressão</a></li>
+      <li><a href="#️-interferência-nas-eleições-papel-do-judiciário" id="markdown-toc-️-interferência-nas-eleições-papel-do-judiciário">🗳️ Interferência nas Eleições: Papel do Judiciário</a></li>
+      <li><a href="#-conflitos-de-interesse-redes-e-imparcialidade" id="markdown-toc--conflitos-de-interesse-redes-e-imparcialidade">👥 Conflitos de Interesse: Redes e Imparcialidade</a></li>
+      <li><a href="#-decisões-unilaterais-e-inconstitucionalidades-ativismo-excessivo" id="markdown-toc--decisões-unilaterais-e-inconstitucionalidades-ativismo-excessivo">📜 Decisões Unilaterais e Inconstitucionalidades: Ativismo Excessivo</a></li>
+      <li><a href="#-impactos-na-democracia-consequências-sistêmicas" id="markdown-toc--impactos-na-democracia-consequências-sistêmicas">💥 Impactos na Democracia: Consequências Sistêmicas</a></li>
+      <li><a href="#️-conclusão-recomendações-para-equilíbrio-institucional" id="markdown-toc-️-conclusão-recomendações-para-equilíbrio-institucional">🏛️ Conclusão: Recomendações para Equilíbrio Institucional</a></li>
+      <li><a href="#-ver-a-linha-do-tempo" id="markdown-toc--ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</a></li>
+      <li><a href="#fontes-consultadas" id="markdown-toc-fontes-consultadas">Fontes Consultadas</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="interferências-judiciais-no-processo-eleitoral-brasileiro-uma-visão-crítica-2018-2023">Interferências Judiciais no Processo Eleitoral Brasileiro: Uma Visão Crítica (2018-2023)</h1>
+
+<h2 id="-introdução-contextualização-das-interferências-judiciais">🔍 Introdução: Contextualização das Interferências Judiciais</h2>
+
+<p>Como investigador jurídico, esta análise examina o arquivo JSON “interferencia.json”, que compila 38 artigos de fontes variadas, abrangendo o período de 2018 a 2023. O documento destaca ações do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE) que configuram potenciais interferências no processo democrático, incluindo decisões contra o voto impresso, colaborações internacionais para combate a fake news, abusos de autoridade, censura judicial e decisões unilaterais. Essas práticas levantam questões sobre a violação de princípios constitucionais, como a separação de poderes (art. 2º da CF/1988), a soberania popular (art. 14) e a liberdade de expressão (art. 5º, IV). A análise adota uma abordagem formal, baseada em doutrina jurídica e jurisprudência, para avaliar se tais condutas representam ativismo judicial excessivo, comprometendo o Estado Democrático de Direito. O período coincide com eleições presidenciais conturbadas, a Operação Lava Jato e polarização política, ampliando o escopo para implicações sistêmicas. Fontes como Veja, TSE e Conjur revelam padrões de overreach, onde o Judiciário assume papéis legislativos ou executivos, como na regulação de desinformação sem base legal clara. Esta investigação contribui para o debate sobre accountability judicial, propondo reformas para mitigar riscos autoritários.</p>
+
+<h2 id="-visão-cronológica-evolução-das-interferências">📅 Visão Cronológica: Evolução das Interferências</h2>
+
+<p>A cronologia dos eventos demonstra uma progressão de intervenções pontuais para medidas sistemáticas. Em fevereiro de 2018, Raquel Dodge, então PGR, ajuizou ação no STF contra o voto impresso, argumentando inconstitucionalidade e custos excessivos, o que resultou na suspensão da medida aprovada pelo Congresso. Em março, o TSE colaborou com o FBI para combater fake news, sob presidência de Marco Aurélio Mello, introduzindo influências estrangeiras no processo eleitoral brasileiro. Março de 2019 viu Gilmar Mendes responder agressivamente a repórter sobre despesas de viagem, ilustrando arrogância institucional. Em setembro de 2018, a Agência Pública relatou decisões monocráticas semanais do STF sobre a Constituição, com 73 liminares em ADIs/ADPFs de 2017-2018, violando o princípio da colegialidade (art. 97 da CF).</p>
+
+<p>Avançando para 2019, Dias Toffoli abriu o Inquérito das Fake News em março, delegando a Alexandre de Moraes, contrariando a PGR e gerando acusações de censura prévia. Abril trouxe revelações da Crusoé sobre Toffoli ligado a Odebrecht via delação de Marcelo Odebrecht, codinome “amigo do amigo de meu pai”, sugerindo conflitos de interesse. Moraes manteve o inquérito contra Dodge, e bloqueou redes de general por “subversão”. Maio viu Celso de Mello julgar cortes orçamentários em universidades, e Rosa Weber exigir explicações de Bolsonaro sobre decreto de armas. Junho incluiu suspensão de MP sobre demarcação indígena por Barroso e extinção de conselhos por ação do PT.</p>
+
+<p>Em 2022, alertas da CIA a Bolsonaro contra questionar eleições, e eventos Lide com ministros do STF em NY. 2023 trouxe invasões MST, corrida por semicondutores por Barroso, e buscas contra agressores de Moraes, consideradas abusivas. Essa linha temporal indica escalada de judicialização da política.</p>
+
+<!--more-->
+
+<h2 id="️-abuso-de-autoridade-configurações-legais-e-casos-emblemáticos">⚖️ Abuso de Autoridade: Configurações Legais e Casos Emblemáticos</h2>
+
+<p>O abuso de autoridade é tipificado pela Lei 13.869/2019, incluindo decretar cautelar desnecessária (art. 9º). Buscas contra hostilizadores de Moraes em 2023 foram “extrapoladoras”, segundo constitucionalistas, sem conexão com agressão ao Estado. Moraes mandou PF ouvir Monark em 2023 por críticas, configurando intimidação. Toffoli negou recurso de Dallagnol, mantendo cassação, e anulou condenação da Petrobras, beneficiando estatal. PCC investindo em concursos para juízes em 2023 sugere infiltração. Essas condutas violam improbidade (Lei 8.429/1992), demandando CPI.</p>
+
+<h2 id="-censura-judicial-restrições-à-liberdade-de-expressão">🚫 Censura Judicial: Restrições à Liberdade de Expressão</h2>
+
+<p>Censura é vedada pelo art. 220 da CF. CNJ suspendeu redes de juiz do TRF-2 em 2023 por “coach”. Inquérito Fake News bloqueou redes em 2019. TSE com FBI contra fake news em 2018 introduziu vigilância externa. Decisões polêmicas do TSE sobre fake news em 2022 foram vistas como censura. STF manteve “superpoderes” do TSE contra desinformação.</p>
+
+<h2 id="️-interferência-nas-eleições-papel-do-judiciário">🗳️ Interferência nas Eleições: Papel do Judiciário</h2>
+
+<p>Interferências violam soberania popular. Dodge contra voto impresso em 2018 suspendeu lei. Barroso derrotou “bolsonarismo” em 2023 na UNE. CIA alertou Bolsonaro em 2022. Barroso buscou semicondutores para urnas em 2021 via diplomatas. Eventos Lide com ministros sugerem lobismo.</p>
+
+<h2 id="-conflitos-de-interesse-redes-e-imparcialidade">👥 Conflitos de Interesse: Redes e Imparcialidade</h2>
+
+<p>Conflitos violam art. 144 do CPC. Toffoli ligado a Odebrecht em 2019. Lula indicou Lewandowski para Mercosul em 2023. Fux revogou auxílio-moradia após reajuste em 2018. Gilmar Mendes agressivo com repórter.</p>
+
+<h2 id="-decisões-unilaterais-e-inconstitucionalidades-ativismo-excessivo">📜 Decisões Unilaterais e Inconstitucionalidades: Ativismo Excessivo</h2>
+
+<p>Monocráticas violam colegialidade. Juízes decidem sozinhos semanalmente sobre Constituição. Barroso extinguiu pena de Pedro Corrêa em 2023. Rosa Weber exigiu explicações sobre armas em 2019.</p>
+
+<h2 id="-impactos-na-democracia-consequências-sistêmicas">💥 Impactos na Democracia: Consequências Sistêmicas</h2>
+
+<p>Erosão de confiança, polarização. Vaias a Barroso em 2023 refletem rejeição. Invasões MST com apoio PT em 2023 afetam propriedade. Moraes como protagonista autoritário.</p>
+
+<h2 id="️-conclusão-recomendações-para-equilíbrio-institucional">🏛️ Conclusão: Recomendações para Equilíbrio Institucional</h2>
+
+<p>Interferências ameaçam democracia. Recomenda-se reformas no regimento do STF, fortalecimento de CPIs e transparência. Sem isso, risco de judicialização excessiva persiste.</p>
+
+<h2 id="-ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</h2>
+<ul>
+  <li><a href="/lawfare/">📜 Análise das Interferências Judiciais no Processo Eleitoral Brasileiro</a></li>
+  <li><a href="/stf/">✒️ Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</a></li>
+  <li><a href="/tse/">🌐 Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️</a></li>
+  <li><a href="/dossie/">📝 Dossiê sobre Ações do Ministro Alexandre de Moraes</a></li>
+</ul>
+
+<h2 id="fontes-consultadas">Fontes Consultadas</h2>
+
+<ul>
+  <li><a href="https://veja.abril.com.br/politica/raquel-dodge-entra-com-acao-no-stf-contra-voto-impresso-em-2018/">Raquel Dodge contra voto impresso</a></li>
+  <li><a href="https://www.tse.jus.br/comunicacao/noticias/2018/Marco/fbi-expoe-ao-tse-sua-experiencia-no-combate-as-fake-news">FBI no TSE</a></li>
+  <li><a href="https://www.metropoles.com/brasil/justica/enfia-essa-pergunta-na-bunda-diz-gilmar-mendes-a-reporter">Gilmar Mendes a repórter</a></li>
+  <li><a href="https://apublica.org/2018/09/semanalmente-juizes-do-supremo-decidem-sozinhos-sobre-aplicacao-da-constituicao/">Decisões unilaterais STF</a></li>
+  <li><a href="https://www.conjur.com.br/2018-nov-26/fux-revoga-auxilio-moradia-juizes-reajuste-stf">Fux revoga auxílio-moradia</a></li>
+  <li><a href="https://www.conjur.com.br/2019-mar-14/toffoli-abre-inquerito-apurar-ameacas-ministros-tribunal/">Inquérito Fake News Toffoli</a></li>
+  <li><a href="https://crusoe.uol.com.br/edicoes/50/o-amigo-do-amigo-de-meu-pai/">Amigo do amigo Toffoli</a></li>
+  <li><a href="https://dcomercio.com.br/categoria/brasil/stf-confronta-decisao-de-dodge">Moraes contraria Dodge</a></li>
+  <li><a href="https://temasselecionados.tse.jus.br/temas-selecionados/inelegibilidades-e-condicoes-de-elegibilidade/parte-i-inelegibilidades-e-condicoes-de-elegibilidade/abuso-de-poder-e-uso-indevido-de-meios-de-comunicacao-social/caracterizacao/abuso-do-poder-de-autoridade">Abuso do poder de autoridade TSE</a></li>
+  <li><a href="https://temasselecionados.tse.jus.br/temas-selecionados/inelegibilidades-e-condicoes-de-elegibilidade/parte-i-inelegibilidades-e-condicoes-de-elegibilidade/abuso-de-poder-e-uso-indevido-de-meios-de-comunicacao-social/caracterizacao/abuso-do-poder-politico">Abuso poder político TSE</a></li>
+  <li><a href="https://www.stf.jus.br/arquivo/cms/publicacaoPublicacaoTematica/anexo/Cadernos_STF_LiberdadeExpressaoeNovasTecnologias.pdf">Liberdade expressão STF</a></li>
+  <li><a href="https://novo.org.br/noticias/censura-do-stf-tse-principais-casos/">Censura STF TSE casos</a></li>
+  <li><a href="https://www.bbc.com/portuguese/brasil-63338642">Decisões polêmicas TSE</a></li>
+  <li><a href="https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=522844&amp;ori=1">Norma TSE desinformação</a></li>
+  <li><a href="https://www.scielo.br/j/rinc/a/WbkT59T9kfBb7xFx3RTtB9J/?lang=pt">Discriminação cotas STF</a></li>
+  <li><a href="https://www.camara.leg.br/noticias/1181942-oposicao-acusa-moraes-de-abuso-de-autoridade-lider-do-pt-comemora-vitoria-do-estado-de-direito/">Oposição acusa Moraes abuso</a></li>
+  <li><a href="https://www.bbc.com/portuguese/articles/cdrl3z8kx66o">Moraes abusou poderes TSE</a></li>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="estudos" /><category term="justica" /><category term="lawfare" /><category term="stf" /><category term="cia" /><category term="tse" /><category term="fake-news" /><category term="pgr" /><category term="pcc" /><category term="cpi" /><category term="barroso" /><category term="cf" /><category term="fbi" /><category term="censura" /><category term="eleicoes" /><summary type="html"><![CDATA["Análise de 38 artigos revela interferências do STF/TSE em eleições: abusos, censura e ativismo (2018-2023). Violações constitucionais ameaçam democracia; urge reformas para accountability."]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jv-conseil.dev/assets/img/lawfare1.jpeg" /><media:content medium="image" url="https://www.jv-conseil.dev/assets/img/lawfare1.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Diretor da CIA teria alertado governo Bolsonaro a não questionar eleições no Brasil</title><link href="https://www.jv-conseil.dev/lawfare/diretor-da-cia-teria-alertado-governo-bolsonaro-a-nao-questionar-eleicoes-no-brasil/" rel="alternate" type="text/html" title="Diretor da CIA teria alertado governo Bolsonaro a não questionar eleições no Brasil" /><published>2022-05-05T00:00:00-03:00</published><updated>2025-08-13T12:05:41-03:00</updated><id>https://www.jv-conseil.dev/lawfare/diretor-da-cia-teria-alertado-governo-bolsonaro-a-nao-questionar-eleicoes-no-brasil</id><content type="html" xml:base="https://www.jv-conseil.dev/lawfare/diretor-da-cia-teria-alertado-governo-bolsonaro-a-nao-questionar-eleicoes-no-brasil/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+<ul>
+  <li><strong>Data de Publicação</strong>: 2022-05-05</li>
+  <li><strong>Fonte</strong>: gazetadopovo</li>
+  <li><strong>URL</strong>: <a href="https://www.gazetadopovo.com.br/eleicoes/2022/cia-teria-alertado-governo-bolsonaro-a-nao-levantar-duvidas-sobre-as-eleicoes-no-brasil/">https://www.gazetadopovo.com.br/eleicoes/2022/cia-teria-alertado-governo-bolsonaro-a-nao-levantar-duvidas-sobre-as-eleicoes-no-brasil/</a></li>
+  <li><strong>Tópicos</strong>:
+    <ul>
+      <li>Eleições</li>
+      <li>CIA</li>
+      <li>Voto Impresso</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="analise-por-ia">Analise por IA</h2>
+<ul>
+  <li><a href="https://www.perplexity.ai/search?q=%22not%C3%ADcia%20artigo%20Brasil%22%20Diretor%20da%20CIA%20teria%20alertado%20governo%20Bolsonaro%20a%20n%C3%A3o%20questionar%20elei%C3%A7%C3%B5es%20no%20Brasil%20gazetadopovo%202022-05-05">🤖 Investigar com IA</a></li>
+</ul>
+
+<h2 id="links-relacionados">Links Relacionados</h2>
+<ul>
+  <li><a href="https://www.google.com/search?q=%22not%C3%ADcia%20artigo%20Brasil%22%20Diretor%20da%20CIA%20teria%20alertado%20governo%20Bolsonaro%20a%20n%C3%A3o%20questionar%20elei%C3%A7%C3%B5es%20no%20Brasil%20gazetadopovo%202022-05-05">🌐🔍 Busca no Google para o título e descrição</a></li>
+  <li><a href="https://pt.wikipedia.org/w/index.php?search=%22not%C3%ADcia%20artigo%20Brasil%22%20Diretor%20da%20CIA%20teria%20alertado%20governo%20Bolsonaro%20a%20n%C3%A3o%20questionar%20elei%C3%A7%C3%B5es%20no%20Brasil%20gazetadopovo%202022-05-05">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="lawfare" /><category term="eleicoes" /><category term="cia" /><category term="voto-impresso" /><summary type="html"><![CDATA[2022-05-05-gazetadopovo-Eleições-CIA]]></summary></entry><entry><title type="html">Diretor da CIA teria alertado governo Bolsonaro a não questionar eleições no Brasil</title><link href="https://www.jv-conseil.dev/stf/diretor-da-cia-teria-alertado-governo-bolsonaro-a-nao-questionar-eleicoes-no-brasil/" rel="alternate" type="text/html" title="Diretor da CIA teria alertado governo Bolsonaro a não questionar eleições no Brasil" /><published>2022-05-05T00:00:00-03:00</published><updated>2025-08-13T12:10:53-03:00</updated><id>https://www.jv-conseil.dev/stf/diretor-da-cia-teria-alertado-governo-bolsonaro-a-nao-questionar-eleicoes-no-brasil</id><content type="html" xml:base="https://www.jv-conseil.dev/stf/diretor-da-cia-teria-alertado-governo-bolsonaro-a-nao-questionar-eleicoes-no-brasil/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+<ul>
+  <li><strong>Data de Publicação</strong>: 2022-05-05</li>
+  <li><strong>Fonte</strong>: gazetadopovo</li>
+  <li><strong>URL</strong>: <a href="https://www.gazetadopovo.com.br/eleicoes/2022/cia-teria-alertado-governo-bolsonaro-a-nao-levantar-duvidas-sobre-as-eleicoes-no-brasil/">https://www.gazetadopovo.com.br/eleicoes/2022/cia-teria-alertado-governo-bolsonaro-a-nao-levantar-duvidas-sobre-as-eleicoes-no-brasil/</a></li>
+  <li><strong>Tópicos</strong>:
+    <ul>
+      <li>Eleições</li>
+      <li>CIA</li>
+      <li>Voto Impresso</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="analise-por-ia">Analise por IA</h2>
+<ul>
+  <li><a href="https://www.perplexity.ai/search?q=%22not%C3%ADcia%20artigo%20Brasil%22%20Diretor%20da%20CIA%20teria%20alertado%20governo%20Bolsonaro%20a%20n%C3%A3o%20questionar%20elei%C3%A7%C3%B5es%20no%20Brasil%20gazetadopovo%202022-05-05">🤖 Investigar com IA</a></li>
+</ul>
+
+<h2 id="links-relacionados">Links Relacionados</h2>
+<ul>
+  <li><a href="https://www.google.com/search?q=%22not%C3%ADcia%20artigo%20Brasil%22%20Diretor%20da%20CIA%20teria%20alertado%20governo%20Bolsonaro%20a%20n%C3%A3o%20questionar%20elei%C3%A7%C3%B5es%20no%20Brasil%20gazetadopovo%202022-05-05">🌐🔍 Busca no Google para o título e descrição</a></li>
+  <li><a href="https://pt.wikipedia.org/w/index.php?search=%22not%C3%ADcia%20artigo%20Brasil%22%20Diretor%20da%20CIA%20teria%20alertado%20governo%20Bolsonaro%20a%20n%C3%A3o%20questionar%20elei%C3%A7%C3%B5es%20no%20Brasil%20gazetadopovo%202022-05-05">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="stf" /><category term="eleicoes" /><category term="cia" /><category term="voto-impresso" /><summary type="html"><![CDATA[Detalhes Data de Publicação: 2022-05-05 Fonte: gazetadopovo URL: https://www.gazetadopovo.com.br/eleicoes/2022/cia-teria-alertado-governo-bolsonaro-a-nao-levantar-duvidas-sobre-as-eleicoes-no-brasil/ Tópicos: Eleições CIA Voto Impresso Analise por IA 🤖 Investigar com IA Links Relacionados 🌐🔍 Busca no Google para o título e descrição 📖🔍 Busca na Wikipedia para o título e descrição]]></summary></entry></feed>

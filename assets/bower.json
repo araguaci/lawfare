@@ -1,12 +1,12 @@
 {
-  "name": "hydejack-assets",
-  "homepage": "https://hydejack.com/",
-  "author": "Florian Klampfer <mail@qwtel.com> (https://qwtel.com/)",
+  "name": "deepdive-assets",
+  "homepage": "https://www.jv-conseil.dev/",
+  "author": "JV conseil <contact@jv-conseil.dev> (https://www.jv-conseil.dev)",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "html5shiv": "^3.7.3",
-    "katex": "^0.12.0",
+    "katex": "^0.11.1",
     "MathJax": "^3.1.2"
   }
 }

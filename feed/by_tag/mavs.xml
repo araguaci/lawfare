@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.jv-conseil.dev/feed/by_tag/mavs.xml" rel="self" type="application/atom+xml" /><link href="https://www.jv-conseil.dev/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2025-08-14T23:42:32-03:00</updated><id>https://www.jv-conseil.dev/feed/by_tag/mavs.xml</id><title type="html">LAWFARE</title><subtitle>**Natureza Investigativa e Agregadora do Conteúdo**
+Análises representadas em investigações sistemáticas de eventos e fatos públicos, compilados a partir de centenas de matérias jornalísticas, relatórios oficiais e fontes documentais disponíveis em domínio público. O objetivo primordial é sintetizar informações dispersas, promovendo uma visão consolidada e analítica dos temas abordados, sem introduzir elementos especulativos ou não verificáveis.
+O conteúdo aqui apresentado limita-se à agregação e organização de dados preexistentes, extraídos de reportagens credíveis, decisões judiciais, relatórios de órgãos como o Supremo Tribunal Federal (STF), Tribunal de Contas da União (TCU) e Ministério Público Federal (MPF), bem como análises acadêmicas e internacionais. Não se trata de produção original de evidências, mas de uma curadoria imparcial para facilitar o entendimento de padrões sistêmicos em corrupção, judiciário e interferências políticas.
+</subtitle><author><name>LAWFARE</name><email>johndoe@example.com</email></author><entry><title type="html">Interferência Externa nas Eleições</title><link href="https://www.jv-conseil.dev/estudos/justica/tse/interferencia-externa-nas-eleicoes/" rel="alternate" type="text/html" title="Interferência Externa nas Eleições" /><published>2025-08-10T21:32:28-03:00</published><updated>2025-08-14T14:38:03-03:00</updated><id>https://www.jv-conseil.dev/estudos/justica/tse/interferencia-externa-nas-eleicoes</id><content type="html" xml:base="https://www.jv-conseil.dev/estudos/justica/tse/interferencia-externa-nas-eleicoes/"><![CDATA[<ul class="large-only" id="markdown-toc">
+  <li><a href="#-cooperação-internacional-em-matéria-eleitoral" id="markdown-toc--cooperação-internacional-em-matéria-eleitoral">🔍 Cooperação Internacional em Matéria Eleitoral</a>    <ul>
+      <li><a href="#-eventos-colaborativos-e-programas-institucionais-de-combate-à-desinformação" id="markdown-toc--eventos-colaborativos-e-programas-institucionais-de-combate-à-desinformação">🤝 Eventos Colaborativos e Programas Institucionais de Combate à Desinformação</a></li>
+      <li><a href="#️-alegações-de-interferência-eleitoral-e-censura-seletiva" id="markdown-toc-️-alegações-de-interferência-eleitoral-e-censura-seletiva">⚠️ Alegações de Interferência Eleitoral e Censura Seletiva</a></li>
+      <li><a href="#-campanhas-digitais-ataques-virtuais-e-mobilização-de-influenciadores" id="markdown-toc--campanhas-digitais-ataques-virtuais-e-mobilização-de-influenciadores">💻 Campanhas Digitais, Ataques Virtuais e Mobilização de Influenciadores</a></li>
+      <li><a href="#-eventos-culturais-e-educativos-com-viés-cívico" id="markdown-toc--eventos-culturais-e-educativos-com-viés-cívico">🎤 Eventos Culturais e Educativos com Viés Cívico</a></li>
+      <li><a href="#️-eventos-pós-eleitorais-prisões-em-massa-e-violações-ao-devido-processo" id="markdown-toc-️-eventos-pós-eleitorais-prisões-em-massa-e-violações-ao-devido-processo">⚖️ Eventos Pós-Eleitorais: Prisões em Massa e Violações ao Devido Processo</a></li>
+      <li><a href="#️-criação-da-procuradoria-nacional-de-defesa-da-democracia-pndd" id="markdown-toc-️-criação-da-procuradoria-nacional-de-defesa-da-democracia-pndd">🛡️ Criação da Procuradoria Nacional de Defesa da Democracia (PNDD)</a></li>
+      <li><a href="#-repasses-financeiros-da-usaid-e-implicações-para-a-soberania" id="markdown-toc--repasses-financeiros-da-usaid-e-implicações-para-a-soberania">💰 Repasses Financeiros da USAID e Implicações para a Soberania</a></li>
+      <li><a href="#-debates-jurídicos-sobre-legislação-e-investigações" id="markdown-toc--debates-jurídicos-sobre-legislação-e-investigações">📜 Debates Jurídicos sobre Legislação e Investigações</a></li>
+      <li><a href="#️-conclusão-considerações-jurídicas-e-recomendações" id="markdown-toc-️-conclusão-considerações-jurídicas-e-recomendações">🏛️ Conclusão: Considerações Jurídicas e Recomendações</a></li>
+      <li><a href="#️-atores-chave" id="markdown-toc-️-atores-chave">🛡️ Atores chave</a></li>
+      <li><a href="#-ver-a-linha-do-tempo" id="markdown-toc--ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</a>        <ul>
+          <li><a href="#fontes-consultadas" id="markdown-toc-fontes-consultadas">Fontes Consultadas</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="-cooperação-internacional-em-matéria-eleitoral">🔍 Cooperação Internacional em Matéria Eleitoral</h1>
+
+<p>A cooperação entre instituições nacionais e entidades estrangeiras no âmbito eleitoral representa um fenômeno crescente em democracias contemporâneas, motivado pela necessidade de combater ameaças transnacionais como a desinformação. No caso brasileiro, a parceria entre o Tribunal Superior Eleitoral (TSE) e a Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID), mediada pelo consórcio CEPPS, emerge como um exemplo paradigmático. Iniciada em 2021, essa colaboração visava estruturar programas institucionais para mitigar a disseminação de informações falsas durante as eleições de 2022. Como investigador jurídico, é imperativo examinar se tal interação respeita os princípios constitucionais de soberania nacional, independência judicial e neutralidade política, conforme estipulado nos artigos 1º, inciso I, e 127 da Constituição Federal de 1988.</p>
+
+<p>Os eventos descritos no documento revelam uma cronologia que abrange desde workshops colaborativos até alegações de censura seletiva e prisões em massa pós-eleitorais. Essa análise adota uma abordagem analítica e formal, desdobrando os fatos em tópicos temáticos para avaliar potenciais violações jurídicas, como abuso de poder, interferência estrangeira e desrespeito ao devido processo legal. A gravidade das ações varia de baixa a alta, com implicações que vão desde o fortalecimento institucional até acusações de manipulação eleitoral. É essencial considerar o marco legal internacional, como a Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), que proíbe intervenções indevidas em processos democráticos.</p>
+
+<h2 id="-eventos-colaborativos-e-programas-institucionais-de-combate-à-desinformação">🤝 Eventos Colaborativos e Programas Institucionais de Combate à Desinformação</h2>
+
+<p>A partir de setembro de 2021, o TSE e a USAID promoveram eventos presenciais e virtuais em Brasília, envolvendo servidores eleitorais, representantes internacionais e organizações não governamentais (ONGs). Esses encontros focaram no debate sobre desinformação e na estruturação de programas de cooperação técnica para as eleições de 2022. Juridicamente, tal cooperação é amparada pelo artigo 23, inciso IX, da Constituição Federal, que atribui à União a competência para celebrar tratados internacionais, e pela Lei nº 13.105/2015 (Código de Processo Civil), que permite parcerias institucionais para capacitação.</p>
+
+<p>Contudo, a implementação de campanhas e treinamentos institucionais em 2022, incluindo a produção de manuais e colaboração com plataformas digitais, suscita questionamentos sobre a neutralidade. O Programa Permanente de Enfrentamento à Desinformação, executado com apoio da USAID e CEPPS, envolveu treinamentos internos e ações educativas. Embora classificado como de gravidade média, esse programa pode configurar uma forma de influência externa indireta, especialmente se os recursos financeiros estrangeiros direcionarem agendas específicas. De acordo com o princípio da soberania (artigo 1º, CF/88), qualquer assistência internacional deve ser transparente e não comprometer a autonomia decisória do TSE. A ausência de auditorias públicas sobre os repasses pode violar a Lei de Acesso à Informação (Lei nº 12.527/2011), demandando maior escrutínio para evitar percepções de parcialidade.</p>
+
+<h2 id="️-alegações-de-interferência-eleitoral-e-censura-seletiva">⚠️ Alegações de Interferência Eleitoral e Censura Seletiva</h2>
+
+<p>Em outubro de 2022, alegações públicas de interferência surgiram, com lideranças políticas de direita e imprensa alternativa acusando ONGs financiadas pela USAID de praticar censura seletiva. Essas denúncias apontam para uma direcionamento do debate público, sem indícios técnicos de coordenação entre TSE e USAID. Do ponto de vista jurídico, isso evoca o artigo 5º, inciso IX, da CF/88, que garante a liberdade de expressão, e a Lei nº 13.188/2015 (Marco Civil da Internet), que proíbe remoções arbitrárias de conteúdo.</p>
+
+<p>A gravidade média dessas alegações reside na potencial violação do princípio da igualdade eleitoral (artigo 14, CF/88), se comprovado que as ações beneficiaram indiretamente candidatos progressistas. Campanhas de difamação coordenadas por bots e militância virtual (MAVs) do PT, incluindo ataques a opositores como Stefanny Papaiano e Alexandre Garcia, configuram crimes cibernéticos previstos na Lei nº 12.737/2012 (Lei Carolina Dieckmann). A falta de responsabilização pelo TSE sugere uma aplicação seletiva da lei, o que pode ser contestado via ações de inconstitucionalidade no Supremo Tribunal Federal (STF).</p>
+
+<!--more-->
+
+<h2 id="-campanhas-digitais-ataques-virtuais-e-mobilização-de-influenciadores">💻 Campanhas Digitais, Ataques Virtuais e Mobilização de Influenciadores</h2>
+
+<p>Durante o período eleitoral, perfis falsos e influenciadores promoveram campanhas associando candidatos conservadores a temas negativos, utilizando inteligência artificial para gerar conteúdo difamatório. Essa conduta, de gravidade alta, infringe o artigo 323 do Código Eleitoral (Lei nº 4.737/1965), que pune a calúnia e difamação em contextos eleitorais. O envolvimento de grupos como Boca de Lobo e deputados como André Janones destaca a necessidade de investigações pelo Ministério Público Federal (MPF) sob a Lei nº 7.170/1983 (Lei de Segurança Nacional), adaptada para ameaças à democracia.</p>
+
+<p>Paralelamente, canais do YouTube e blogueiros progressistas, em parceria com ONGs apoiadas pela USAID, conduziram campanhas de fact-checking e incentivo ao voto. Embora de gravidade baixa a média, essas ações levantam questões sobre financiamento estrangeiro indireto, proibido pela Resolução TSE nº 23.659/2021 para campanhas eleitorais. A mobilização de influenciadores como Felipe Neto e Sabrina Fernandes em lives e debates institucionais pode ser vista como extensão de soft power internacional, demandando análise sob o prisma da Lei nº 9.504/1997 (Lei das Eleições), que veda doações estrangeiras.</p>
+
+<h2 id="-eventos-culturais-e-educativos-com-viés-cívico">🎤 Eventos Culturais e Educativos com Viés Cívico</h2>
+
+<p>Shows e festivais pró-democracia, organizados por artistas como Anitta e Emicida em parceria com ONGs como Instituto Update, ocorreram em grandes capitais durante o segundo semestre de 2022. Esses eventos, de gravidade baixa, promoviam o voto consciente e combate à desinformação, mas com viés crítico ao conservadorismo. Juridicamente, enquadram-se no artigo 220 da CF/88, que protege a manifestação artística, porém, se financiados indiretamente por recursos estrangeiros, podem violar a proibição de interferência externa em processos eleitorais (Resolução TSE nº 23.610/2019).</p>
+
+<p>Ciclos de palestras universitárias e workshops em instituições como USP e UFRJ, envolvendo ONGs de fact-checking, visavam formar multiplicadores em checagem de fatos. Essa iniciativa, embora educativa, suscita preocupações com a neutralidade acadêmica, conforme o artigo 207 da CF/88, que garante autonomia universitária. A ausência de transparência nos financiamentos pode configurar abuso de influência, sujeita a controle pelo Tribunal de Contas da União (TCU).</p>
+
+<h2 id="️-eventos-pós-eleitorais-prisões-em-massa-e-violações-ao-devido-processo">⚖️ Eventos Pós-Eleitorais: Prisões em Massa e Violações ao Devido Processo</h2>
+
+<p>Após os protestos de 8 de janeiro de 2023, prisões em massa foram efetuadas sob acusações de tentativa de golpe, centralizadas pelo ministro Alexandre de Moraes. A criação de grupos secretos como “Custody Hearings” via WhatsApp, envolvendo servidores do STF e TSE, representa uma concentração de poderes incompatível com o artigo 2º da CF/88 (separação de poderes). De gravidade alta, essas ações violaram o devido processo legal (artigo 5º, LIV, CF/88), com audiências simuladas e uso ilegal de bancos de dados biométricos.</p>
+
+<p>O uso de relatórios informais para classificar detentos baseados em opiniões políticas infringe a Lei Geral de Proteção de Dados (Lei nº 13.709/2018). Críticas de juristas como Marco Aurélio Mello destacam abusos, sugerindo ações de habeas corpus e representações ao Conselho Nacional de Justiça (CNJ).</p>
+
+<h2 id="️-criação-da-procuradoria-nacional-de-defesa-da-democracia-pndd">🛡️ Criação da Procuradoria Nacional de Defesa da Democracia (PNDD)</h2>
+
+<p>Em setembro de 2023, a PNDD foi instituída para combater desinformação sobre políticas públicas, mas críticos alegam seu uso para perseguir opositores. Vinculada à AGU, sob Jorge Messias, o órgão atuou em casos como a calamidade no Sul, com gravidade alta. Isso pode configurar censura prévia, vedada pelo artigo 220, § 2º, da CF/88, e abuso de autoridade (Lei nº 13.869/2019). Investigação pelo MPF é recomendada para avaliar violações à liberdade de imprensa.</p>
+
+<h2 id="-repasses-financeiros-da-usaid-e-implicações-para-a-soberania">💰 Repasses Financeiros da USAID e Implicações para a Soberania</h2>
+
+<p>Relatórios de 2023 revelam repasses de R$ 267 milhões a ONGs brasileiras pela USAID, destinados a comunicação e ativismo. De gravidade média, isso questiona a soberania nacional (artigo 1º, CF/88) e a Lei nº 4.320/1964 (normas de finanças públicas). A falta de fiscalização pode implicar em lavagem de dinheiro ou influência indevida, sujeita a inquéritos pelo MPF.</p>
+
+<h2 id="-debates-jurídicos-sobre-legislação-e-investigações">📜 Debates Jurídicos sobre Legislação e Investigações</h2>
+
+<p>Em 2024, debates no Congresso e MPF focam em limites à influência internacional, com propostas de investigações parlamentares. Isso alinha-se ao artigo 58, § 3º, da CF/88 (CPIs), visando preservar a integridade eleitoral. A ausência de ações concretas perpetua controvérsias, demandando reformas legislativas para regular parcerias estrangeiras.</p>
+
+<h2 id="️-conclusão-considerações-jurídicas-e-recomendações">🏛️ Conclusão: Considerações Jurídicas e Recomendações</h2>
+
+<p>Essa análise revela um panorama complexo, onde cooperações internacionais fortalecem instituições, mas geram riscos de interferência e violações constitucionais. Recomenda-se auditorias independentes pelo TCU, investigações pelo MPF e reformas na legislação eleitoral para maior transparência. A preservação da democracia exige equilíbrio entre combate à desinformação e proteção aos direitos fundamentais, evitando que medidas protetivas se tornem instrumentos de repressão política.</p>
+
+<h2 id="️-atores-chave">🛡️ Atores chave</h2>
+
+<p>TSE, USAID/CEPPS, ONGs (ex.: Aos Fatos, Lupa), Alexandre de Moraes (STF/TSE), PT (MAVs/bots), influenciadores (Felipe Neto, Anitta). Violações: interferência estrangeira em eleições (soberania, art.1º CF/88); censura seletiva e difamação (liberdade expressão, art.5º IX); abuso poder em prisões 8/1 (devido processo, art.5º LIV); uso ilegal dados biométricos (LGPD); repasses R$267M sem transparência. Impacto: ameaça democracia.</p>
+
+<h2 id="-ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</h2>
+<ul>
+  <li><a href="/lawfare/">📜 Análise das Interferências Judiciais no Processo Eleitoral Brasileiro</a></li>
+  <li><a href="/stf/">✒️ Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</a></li>
+  <li><a href="/tse/">🌐 Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️</a></li>
+  <li><a href="/dossie/">📝 Dossiê sobre Ações do Ministro Alexandre de Moraes</a></li>
+</ul>
+
+<h3 id="fontes-consultadas">Fontes Consultadas</h3>
+
+<ul>
+  <li><a href="https://www.gazetadopovo.com.br/republica/usaid-e-tse-fizeram-eventos-para-combater-desinformacao-um-ano-antes-das-eleicoes-de-2022/">Usaid e TSE fizeram eventos para combater desinformação um ano antes das eleições de 2022</a></li>
+  <li><a href="https://international.tse.jus.br/en/misinformation-and-fake-news/tse-brazil-counter-disinformation-program-2022.pdf">BRAZIL’S ELECTORAL JUSTICE PERMANENT PROGRAM ON COUNTERING DISINFORMATION STRATEGIC PLAN – 2022 ELECTIONS</a></li>
+  <li><a href="https://international.tse.jus.br/en/misinformation-and-fake-news/brazil-electoral-justice-permanent-program-on-countering-disinformation">Elections 2022 - Brazil’s Electoral Justice Permanent Program on Countering Disinformation - Strategic Plan</a></li>
+  <li><a href="https://eyesonbrasil.com/usaid-and-brazils-2022-elections-a-controversial-intersection/">USAID and Brazil’s 2022 Elections: A Controversial Intersection</a></li>
+  <li><a href="https://dunapress.org/usaid-interference-in-brazil-raises-concerns-about-national-sovereignty/">USAID Interference in Brazil Raises Concerns About National Sovereignty</a></li>
+  <li><a href="https://www.ainvestigacao.com/p/pt-utiliza-robos-mavs-e-o-novo-ministerio">PT utiliza Robôs, MAVs e o novo ‘Ministério da Verdade’ para atacar opositores</a></li>
+  <li><a href="https://www.ainvestigacao.com/p/operation-uncle-joe-us-influence">Operation “Uncle Joe”: U.S. Influence in Brazil’s 2022 Election</a></li>
+  <li><a href="https://www.gazetadopovo.com.br/republica/mais-de-duas-dezenas-de-ongs-brasileiras-receberam-r-267-milhoes-da-usaid/">Mais de duas dezenas de ONGs brasileiras receberam R$ 267 milhões da Usaid</a></li>
+  <li><a href="https://www.ifes.org/sites/default/files/2022-09/IFES%20Brazil%20FAQs%202022%20General%20Election.pdf">Election FAQs: Brazil General Elections October 2, 2022</a></li>
+  <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">The January 8th Files: Inside Brazil’s Secret Judicial Task Force for Mass Arrests</a></li>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="estudos" /><category term="justica" /><category term="tse" /><category term="usaid" /><category term="tse" /><category term="ongs" /><category term="cepps" /><category term="mpf" /><category term="mavs" /><category term="bots" /><category term="influenciadores" /><category term="felipe-neto" /><category term="anitta" /><summary type="html"><![CDATA[Análise Jurídica da Cooperação entre TSE e USAID no Combate à Desinformação Eleitoral: Implicações para a Soberania Nacional e o Devido Processo Legal]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jv-conseil.dev/assets/img/usaid.webp" /><media:content medium="image" url="https://www.jv-conseil.dev/assets/img/usaid.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

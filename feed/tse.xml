@@ -1,5 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed/tse.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2025-08-11T21:07:24-03:00</updated><id>/feed/tse.xml</id><title type="html">LAWFARE | Tse</title><subtitle>A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS
-</subtitle><author><name>LAWFARE</name><email>johndoe@example.com</email></author><entry><title type="html">🔍 Cooperação Internacional em Matéria Eleitoral</title><link href="/justica/tse/interferencia-externa-nas-eleicoes.html" rel="alternate" type="text/html" title="🔍 Cooperação Internacional em Matéria Eleitoral" /><published>2025-08-10T21:32:28-03:00</published><updated>2025-08-10T21:32:28-03:00</updated><id>/justica/tse/interferencia-externa-nas-eleicoes</id><content type="html" xml:base="/justica/tse/interferencia-externa-nas-eleicoes.html"><![CDATA[<p>A cooperação entre instituições nacionais e entidades estrangeiras no âmbito eleitoral representa um fenômeno crescente em democracias contemporâneas, motivado pela necessidade de combater ameaças transnacionais como a desinformação. No caso brasileiro, a parceria entre o Tribunal Superior Eleitoral (TSE) e a Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID), mediada pelo consórcio CEPPS, emerge como um exemplo paradigmático. Iniciada em 2021, essa colaboração visava estruturar programas institucionais para mitigar a disseminação de informações falsas durante as eleições de 2022. Como investigador jurídico, é imperativo examinar se tal interação respeita os princípios constitucionais de soberania nacional, independência judicial e neutralidade política, conforme estipulado nos artigos 1º, inciso I, e 127 da Constituição Federal de 1988.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://www.jv-conseil.dev/feed/tse.xml" rel="self" type="application/atom+xml" /><link href="https://www.jv-conseil.dev/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2025-08-14T23:42:32-03:00</updated><id>https://www.jv-conseil.dev/feed/tse.xml</id><title type="html">LAWFARE | Tse</title><subtitle>**Natureza Investigativa e Agregadora do Conteúdo**
+Análises representadas em investigações sistemáticas de eventos e fatos públicos, compilados a partir de centenas de matérias jornalísticas, relatórios oficiais e fontes documentais disponíveis em domínio público. O objetivo primordial é sintetizar informações dispersas, promovendo uma visão consolidada e analítica dos temas abordados, sem introduzir elementos especulativos ou não verificáveis.
+O conteúdo aqui apresentado limita-se à agregação e organização de dados preexistentes, extraídos de reportagens credíveis, decisões judiciais, relatórios de órgãos como o Supremo Tribunal Federal (STF), Tribunal de Contas da União (TCU) e Ministério Público Federal (MPF), bem como análises acadêmicas e internacionais. Não se trata de produção original de evidências, mas de uma curadoria imparcial para facilitar o entendimento de padrões sistêmicos em corrupção, judiciário e interferências políticas.
+</subtitle><author><name>LAWFARE</name><email>johndoe@example.com</email></author><entry><title type="html">Interferência Externa nas Eleições</title><link href="https://www.jv-conseil.dev/estudos/justica/tse/interferencia-externa-nas-eleicoes/" rel="alternate" type="text/html" title="Interferência Externa nas Eleições" /><published>2025-08-10T21:32:28-03:00</published><updated>2025-08-14T14:38:03-03:00</updated><id>https://www.jv-conseil.dev/estudos/justica/tse/interferencia-externa-nas-eleicoes</id><content type="html" xml:base="https://www.jv-conseil.dev/estudos/justica/tse/interferencia-externa-nas-eleicoes/"><![CDATA[<ul class="large-only" id="markdown-toc">
+  <li><a href="#-cooperação-internacional-em-matéria-eleitoral" id="markdown-toc--cooperação-internacional-em-matéria-eleitoral">🔍 Cooperação Internacional em Matéria Eleitoral</a>    <ul>
+      <li><a href="#-eventos-colaborativos-e-programas-institucionais-de-combate-à-desinformação" id="markdown-toc--eventos-colaborativos-e-programas-institucionais-de-combate-à-desinformação">🤝 Eventos Colaborativos e Programas Institucionais de Combate à Desinformação</a></li>
+      <li><a href="#️-alegações-de-interferência-eleitoral-e-censura-seletiva" id="markdown-toc-️-alegações-de-interferência-eleitoral-e-censura-seletiva">⚠️ Alegações de Interferência Eleitoral e Censura Seletiva</a></li>
+      <li><a href="#-campanhas-digitais-ataques-virtuais-e-mobilização-de-influenciadores" id="markdown-toc--campanhas-digitais-ataques-virtuais-e-mobilização-de-influenciadores">💻 Campanhas Digitais, Ataques Virtuais e Mobilização de Influenciadores</a></li>
+      <li><a href="#-eventos-culturais-e-educativos-com-viés-cívico" id="markdown-toc--eventos-culturais-e-educativos-com-viés-cívico">🎤 Eventos Culturais e Educativos com Viés Cívico</a></li>
+      <li><a href="#️-eventos-pós-eleitorais-prisões-em-massa-e-violações-ao-devido-processo" id="markdown-toc-️-eventos-pós-eleitorais-prisões-em-massa-e-violações-ao-devido-processo">⚖️ Eventos Pós-Eleitorais: Prisões em Massa e Violações ao Devido Processo</a></li>
+      <li><a href="#️-criação-da-procuradoria-nacional-de-defesa-da-democracia-pndd" id="markdown-toc-️-criação-da-procuradoria-nacional-de-defesa-da-democracia-pndd">🛡️ Criação da Procuradoria Nacional de Defesa da Democracia (PNDD)</a></li>
+      <li><a href="#-repasses-financeiros-da-usaid-e-implicações-para-a-soberania" id="markdown-toc--repasses-financeiros-da-usaid-e-implicações-para-a-soberania">💰 Repasses Financeiros da USAID e Implicações para a Soberania</a></li>
+      <li><a href="#-debates-jurídicos-sobre-legislação-e-investigações" id="markdown-toc--debates-jurídicos-sobre-legislação-e-investigações">📜 Debates Jurídicos sobre Legislação e Investigações</a></li>
+      <li><a href="#️-conclusão-considerações-jurídicas-e-recomendações" id="markdown-toc-️-conclusão-considerações-jurídicas-e-recomendações">🏛️ Conclusão: Considerações Jurídicas e Recomendações</a></li>
+      <li><a href="#️-atores-chave" id="markdown-toc-️-atores-chave">🛡️ Atores chave</a></li>
+      <li><a href="#-ver-a-linha-do-tempo" id="markdown-toc--ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</a>        <ul>
+          <li><a href="#fontes-consultadas" id="markdown-toc-fontes-consultadas">Fontes Consultadas</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="-cooperação-internacional-em-matéria-eleitoral">🔍 Cooperação Internacional em Matéria Eleitoral</h1>
+
+<p>A cooperação entre instituições nacionais e entidades estrangeiras no âmbito eleitoral representa um fenômeno crescente em democracias contemporâneas, motivado pela necessidade de combater ameaças transnacionais como a desinformação. No caso brasileiro, a parceria entre o Tribunal Superior Eleitoral (TSE) e a Agência dos Estados Unidos para o Desenvolvimento Internacional (USAID), mediada pelo consórcio CEPPS, emerge como um exemplo paradigmático. Iniciada em 2021, essa colaboração visava estruturar programas institucionais para mitigar a disseminação de informações falsas durante as eleições de 2022. Como investigador jurídico, é imperativo examinar se tal interação respeita os princípios constitucionais de soberania nacional, independência judicial e neutralidade política, conforme estipulado nos artigos 1º, inciso I, e 127 da Constituição Federal de 1988.</p>
 
 <p>Os eventos descritos no documento revelam uma cronologia que abrange desde workshops colaborativos até alegações de censura seletiva e prisões em massa pós-eleitorais. Essa análise adota uma abordagem analítica e formal, desdobrando os fatos em tópicos temáticos para avaliar potenciais violações jurídicas, como abuso de poder, interferência estrangeira e desrespeito ao devido processo legal. A gravidade das ações varia de baixa a alta, com implicações que vão desde o fortalecimento institucional até acusações de manipulação eleitoral. É essencial considerar o marco legal internacional, como a Convenção Americana sobre Direitos Humanos (Pacto de San José da Costa Rica), que proíbe intervenções indevidas em processos democráticos.</p>
 
@@ -55,9 +79,12 @@
 
 <p>TSE, USAID/CEPPS, ONGs (ex.: Aos Fatos, Lupa), Alexandre de Moraes (STF/TSE), PT (MAVs/bots), influenciadores (Felipe Neto, Anitta). Violações: interferência estrangeira em eleições (soberania, art.1º CF/88); censura seletiva e difamação (liberdade expressão, art.5º IX); abuso poder em prisões 8/1 (devido processo, art.5º LIV); uso ilegal dados biométricos (LGPD); repasses R$267M sem transparência. Impacto: ameaça democracia.</p>
 
-<h2 id="ver-a-linha-do-tempo">Ver a Linha do Tempo</h2>
+<h2 id="-ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</h2>
 <ul>
-  <li><a href="/tse/">⚠️ Parceria entre o Tribunal Superior Eleitoral (TSE) e a Agência dos Estados Unidos</a></li>
+  <li><a href="/lawfare/">📜 Análise das Interferências Judiciais no Processo Eleitoral Brasileiro</a></li>
+  <li><a href="/stf/">✒️ Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</a></li>
+  <li><a href="/tse/">🌐 Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️</a></li>
+  <li><a href="/dossie/">📝 Dossiê sobre Ações do Ministro Alexandre de Moraes</a></li>
 </ul>
 
 <h3 id="fontes-consultadas">Fontes Consultadas</h3>
@@ -73,7 +100,30 @@
   <li><a href="https://www.gazetadopovo.com.br/republica/mais-de-duas-dezenas-de-ongs-brasileiras-receberam-r-267-milhoes-da-usaid/">Mais de duas dezenas de ONGs brasileiras receberam R$ 267 milhões da Usaid</a></li>
   <li><a href="https://www.ifes.org/sites/default/files/2022-09/IFES%20Brazil%20FAQs%202022%20General%20Election.pdf">Election FAQs: Brazil General Elections October 2, 2022</a></li>
   <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">The January 8th Files: Inside Brazil’s Secret Judicial Task Force for Mass Arrests</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="justica" /><category term="tse" /><summary type="html"><![CDATA[Análise Jurídica da Cooperação entre TSE e USAID no Combate à Desinformação Eleitoral: Implicações para a Soberania Nacional e o Devido Processo Legal]]></summary></entry><entry><title type="html">LAWFARE, A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS: A THREAD</title><link href="/justica/corrupcao/tse/lawfare-a-guerra-silenciosa-que-destroi-democracias.html" rel="alternate" type="text/html" title="LAWFARE, A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS: A THREAD" /><published>2025-08-10T21:32:28-03:00</published><updated>2025-08-10T21:32:28-03:00</updated><id>/justica/corrupcao/tse/lawfare-a-guerra-silenciosa-que-destroi-democracias</id><content type="html" xml:base="/justica/corrupcao/tse/lawfare-a-guerra-silenciosa-que-destroi-democracias.html"><![CDATA[<p>Fonte: <a href="https://twitter-thread.com/t/1954356565856637340">https://twitter-thread.com/t/1954356565856637340</a></p>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="estudos" /><category term="justica" /><category term="tse" /><category term="usaid" /><category term="tse" /><category term="ongs" /><category term="cepps" /><category term="mpf" /><category term="mavs" /><category term="bots" /><category term="influenciadores" /><category term="felipe-neto" /><category term="anitta" /><summary type="html"><![CDATA[Análise Jurídica da Cooperação entre TSE e USAID no Combate à Desinformação Eleitoral: Implicações para a Soberania Nacional e o Devido Processo Legal]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jv-conseil.dev/assets/img/usaid.webp" /><media:content medium="image" url="https://www.jv-conseil.dev/assets/img/usaid.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">LAWFARE, A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS</title><link href="https://www.jv-conseil.dev/estudos/justica/corrupcao/tse/lawfare-a-guerra-silenciosa-que-destroi-democracias/" rel="alternate" type="text/html" title="LAWFARE, A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS" /><published>2025-08-10T21:32:28-03:00</published><updated>2025-08-14T22:18:58-03:00</updated><id>https://www.jv-conseil.dev/estudos/justica/corrupcao/tse/lawfare-a-guerra-silenciosa-que-destroi-democracias</id><content type="html" xml:base="https://www.jv-conseil.dev/estudos/justica/corrupcao/tse/lawfare-a-guerra-silenciosa-que-destroi-democracias/"><![CDATA[<ul class="large-only" id="markdown-toc">
+  <li><a href="#lawfare-a-guerra-silenciosa-que-destrói-democracias-a-thread" id="markdown-toc-lawfare-a-guerra-silenciosa-que-destrói-democracias-a-thread">LAWFARE, A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS: A THREAD</a>    <ul>
+      <li><a href="#as-origens-do-lawfare-da-guerra-militar-à-dominação-colonial" id="markdown-toc-as-origens-do-lawfare-da-guerra-militar-à-dominação-colonial">AS ORIGENS DO LAWFARE: DA GUERRA MILITAR À DOMINAÇÃO COLONIAL</a></li>
+      <li><a href="#o-que-é-lawfare-anatomia-de-uma-arma-jurídica" id="markdown-toc-o-que-é-lawfare-anatomia-de-uma-arma-jurídica">O QUE É LAWFARE: ANATOMIA DE UMA ARMA JURÍDICA</a></li>
+      <li><a href="#exemplos-históricos-o-lawfare-através-dos-tempos" id="markdown-toc-exemplos-históricos-o-lawfare-através-dos-tempos">EXEMPLOS HISTÓRICOS: O LAWFARE ATRAVÉS DOS TEMPOS</a></li>
+      <li><a href="#lawfare-global-os-casos-que-abalaram-o-mundo" id="markdown-toc-lawfare-global-os-casos-que-abalaram-o-mundo">LAWFARE GLOBAL: OS CASOS QUE ABALARAM O MUNDO</a></li>
+      <li><a href="#lawfare-no-brasil-da-lava-jato-à-vaza-toga" id="markdown-toc-lawfare-no-brasil-da-lava-jato-à-vaza-toga">LAWFARE NO BRASIL: DA LAVA JATO À VAZA TOGA</a></li>
+      <li><a href="#as-armas-do-lawfare-técnicas-e-táticas-de-destruição" id="markdown-toc-as-armas-do-lawfare-técnicas-e-táticas-de-destruição">AS ARMAS DO LAWFARE: TÉCNICAS E TÁTICAS DE DESTRUIÇÃO</a></li>
+      <li><a href="#os-arquitetos-do-lawfare-ongs-governos-e-bilionários" id="markdown-toc-os-arquitetos-do-lawfare-ongs-governos-e-bilionários">OS ARQUITETOS DO LAWFARE: ONGS, GOVERNOS E BILIONÁRIOS</a></li>
+      <li><a href="#como-identificar-o-lawfare-o-manual-de-defesa" id="markdown-toc-como-identificar-o-lawfare-o-manual-de-defesa">COMO IDENTIFICAR O LAWFARE: O MANUAL DE DEFESA</a></li>
+      <li><a href="#o-futuro-tecnológico-do-lawfare-ia-e-algoritmos" id="markdown-toc-o-futuro-tecnológico-do-lawfare-ia-e-algoritmos">O FUTURO TECNOLÓGICO DO LAWFARE: IA E ALGORITMOS</a></li>
+      <li><a href="#china-o-laboratório-distópico-do-lawfare-total" id="markdown-toc-china-o-laboratório-distópico-do-lawfare-total">CHINA: O LABORATÓRIO DISTÓPICO DO LAWFARE TOTAL</a></li>
+      <li><a href="#a-máquina-bilionária-do-lawfare-soros-usaid-e-a-doutrinação-judicial" id="markdown-toc-a-máquina-bilionária-do-lawfare-soros-usaid-e-a-doutrinação-judicial">A MÁQUINA BILIONÁRIA DO LAWFARE: SOROS, USAID E A DOUTRINAÇÃO JUDICIAL</a></li>
+      <li><a href="#8-de-janeiro-a-multa-coletiva-e-o-lawfare-em-massa" id="markdown-toc-8-de-janeiro-a-multa-coletiva-e-o-lawfare-em-massa">8 DE JANEIRO: A MULTA COLETIVA E O LAWFARE EM MASSA</a></li>
+      <li><a href="#vaza-toga-completa-tagliaferro-ágape-e-eli-vieira---a-verdade-total" id="markdown-toc-vaza-toga-completa-tagliaferro-ágape-e-eli-vieira---a-verdade-total">VAZA TOGA COMPLETA: TAGLIAFERRO, ÁGAPE E ELI VIEIRA - A VERDADE TOTAL</a></li>
+      <li><a href="#o-momento-decisivo-resistir-ou-aceitar-a-escravidão-judicial" id="markdown-toc-o-momento-decisivo-resistir-ou-aceitar-a-escravidão-judicial">O MOMENTO DECISIVO: RESISTIR OU ACEITAR A ESCRAVIDÃO JUDICIAL</a></li>
+      <li><a href="#-ver-a-linha-do-tempo" id="markdown-toc--ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="lawfare-a-guerra-silenciosa-que-destrói-democracias-a-thread">LAWFARE, A GUERRA SILENCIOSA QUE DESTRÓI DEMOCRACIAS: A THREAD</h1>
+
+<p>Fonte: <a href="https://twitter-thread.com/t/1954356565856637340">https://twitter-thread.com/t/1954356565856637340</a></p>
 
 <p>Você já se perguntou por que tantos líderes políticos ao redor do mundo são subitamente investigados, presos ou impedidos de concorrer às eleições? Por que operações “anticorrupção” parecem sempre mirar determinados alvos políticos? Por que a justiça, que deveria ser cega, parece enxergar cores partidárias com tanta precisão?</p>
 
@@ -91,7 +141,7 @@
 
 <!--more-->
 
-<p><img src="https://pbs.twimg.com/media/Gx8x-CAW4AAjVh0?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx8x-CAW4AAjVh0.jpg" alt="" /></p>
 
 <h2 id="as-origens-do-lawfare-da-guerra-militar-à-dominação-colonial">AS ORIGENS DO LAWFARE: DA GUERRA MILITAR À DOMINAÇÃO COLONIAL</h2>
 
@@ -109,7 +159,7 @@
 
 <p>Na foto, o general Dunlap Jr.:</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx8yMIdXgAA9oLC?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx8yMIdXgAA9oLC.jpg" alt="" /></p>
 
 <h2 id="o-que-é-lawfare-anatomia-de-uma-arma-jurídica">O QUE É LAWFARE: ANATOMIA DE UMA ARMA JURÍDICA</h2>
 
@@ -131,7 +181,7 @@
 
 <p>Na imagem, a representação justiça doente e sangrando:</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx8zAs0WcAAol3j?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx8zAs0WcAAol3j.jpg" alt="" /></p>
 
 <h2 id="exemplos-históricos-o-lawfare-através-dos-tempos">EXEMPLOS HISTÓRICOS: O LAWFARE ATRAVÉS DOS TEMPOS</h2>
 
@@ -149,7 +199,7 @@
 
 <p>Esses exemplos históricos mostram que o lawfare sempre foi a arma preferida de regimes autoritários e elites ameaçadas. Ele permite que a opressão vista o manto da legalidade, que a perseguição se disfarce de justiça, que o poder absoluto mantenha a fachada do Estado de Direito. A história nos ensina: quando a lei se torna arma, a tirania não está longe.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx8z0zGXYAAAVww?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx8z0zGXYAAAVww.jpg" alt="" /></p>
 
 <h2 id="lawfare-global-os-casos-que-abalaram-o-mundo">LAWFARE GLOBAL: OS CASOS QUE ABALARAM O MUNDO</h2>
 
@@ -167,7 +217,7 @@
 
 <p>Esses casos mostram que o lawfare transcende fronteiras, ideologias e sistemas políticos. É a arma universal das elites ameaçadas, dos impérios em declínio, dos establishments desesperados. Não importa se você é de direita ou esquerda, nacionalista ou globalista, jornalista ou político - desafie o sistema e enfrentará sua ira judicial.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx80wM4WQAErjej?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx80wM4WQAErjej.jpg" alt="" /></p>
 
 <h2 id="lawfare-no-brasil-da-lava-jato-à-vaza-toga">LAWFARE NO BRASIL: DA LAVA JATO À VAZA TOGA</h2>
 
@@ -185,7 +235,7 @@
 
 <p>O CICLO VICIOSO DO LAWFARE BRASILEIRO. O Brasil está preso em um ciclo destrutivo. A Lava Jato iniciou um suposto lawfare, de acordo com a esquerda, “contra a corrupção”. O STF normalizou o lawfare “pela democracia”. Cada lado justifica seus excessos pelos excessos do outro. Promotores, juízes, ministros - todos viraram guerreiros políticos. A população, dividida, aplaude o lawfare contra “eles” e denuncia contra “nós”. Enquanto isso, a justiça real - imparcial, técnica, equilibrada - agoniza. O lawfare destruiu não apenas pessoas e partidos, mas a própria credibilidade do sistema judicial brasileiro. Quando a lei vira arma, todos perdem.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx82vtXWQAAp6oB?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx82vtXWQAAp6oB.jpg" alt="" /></p>
 
 <h2 id="as-armas-do-lawfare-técnicas-e-táticas-de-destruição">AS ARMAS DO LAWFARE: TÉCNICAS E TÁTICAS DE DESTRUIÇÃO</h2>
 
@@ -205,7 +255,7 @@
 
 <p>Essas técnicas, combinadas e coordenadas, formam uma máquina de destruição implacável. Nenhuma defesa tradicional funciona contra esse arsenal. O lawfare subverte todas as garantias processuais, tornando o sistema legal uma arma de guerra. Conhecer essas táticas é o primeiro passo para resistir. Nomeá-las é começar a desarmá-las.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx839d0XoAIDMmD?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx839d0XoAIDMmD.jpg" alt="" /></p>
 
 <h2 id="os-arquitetos-do-lawfare-ongs-governos-e-bilionários">OS ARQUITETOS DO LAWFARE: ONGS, GOVERNOS E BILIONÁRIOS</h2>
 
@@ -225,7 +275,7 @@
 
 <p>Esse é o verdadeiro poder por trás do lawfare: não são juízes corruptos individuais, mas toda uma arquitetura de influência que transforma o sistema judicial em arma geopolítica. Conhecer esses arquitetos é fundamental para entender que o lawfare não é desvio - é design.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx85WGUXIAEHAVD?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx85WGUXIAEHAVD.jpg" alt="" /></p>
 
 <h2 id="como-identificar-o-lawfare-o-manual-de-defesa">COMO IDENTIFICAR O LAWFARE: O MANUAL DE DEFESA</h2>
 
@@ -247,7 +297,7 @@
 
 <p>DEFENDENDO-SE DO LAWFARE. Identificar é o primeiro passo. Nomear é o segundo - não tenha medo de chamar lawfare pelo nome. Documentar é crucial - grave, arquive, print tudo. Comunique: o lawfare odeia transparência. Resista: não faça acordos sob coação. Mobilize: o lawfare teme mobilização popular. Internacionalize: exponha abusos globalmente. E sobretudo, sobreviva: o lawfare quer sua destruição psicológica. Não dê esse prazer. A verdade eventualmente prevalece, mas apenas se você sobreviver para contá-la.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx86vxjWIAQxlaa?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx86vxjWIAQxlaa.jpg" alt="" /></p>
 
 <h2 id="o-futuro-tecnológico-do-lawfare-ia-e-algoritmos">O FUTURO TECNOLÓGICO DO LAWFARE: IA E ALGORITMOS</h2>
 
@@ -265,7 +315,7 @@
 
 <p>PREPARANDO A RESISTÊNCIA DIGITAL. A tecnologia que permite o lawfare também pode ser nossa defesa. Criptomoedas permitem transações fora do sistema bancário controlado. Redes descentralizadas resistem à censura. Blockchain pode documentar abusos de forma imutável. VPNs protegem identidades. Mas é uma corrida armamentista: para cada ferramenta de liberdade, surgem ferramentas de controle. A batalha real é entre centralização totalitária versus descentralização libertária. Entre controle algorítmico versus autonomia humana. Entre transparência forçada versus privacidade como direito. O futuro do lawfare será decidido por quem dominar a tecnologia - os tiranos ou os povos livres.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx88L00W8AEmniT?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx88L00W8AEmniT.jpg" alt="" /></p>
 
 <h2 id="china-o-laboratório-distópico-do-lawfare-total">CHINA: O LABORATÓRIO DISTÓPICO DO LAWFARE TOTAL</h2>
 
@@ -285,7 +335,7 @@
 
 <p>Isso não é futuro distópico - é presente real para 1/5 da humanidade. E as elites globais observam com inveja mal disfarçada. Yuval Harari fala em “hackear humanos”. Bill Gates promove identidade digital global. Sam Altman criou a Worldcoin e World ID. UE implementa Digital Identity Wallet. Canadá congela contas de caminhoneiros. Brasil cria cadastro de “extremistas”. A infraestrutura está sendo montada. O lawfare chinês é o modelo - resta saber quando será implementado no seu país. Spoiler: já começou.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx8905NXcAAmg7U?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx8905NXcAAmg7U.jpg" alt="" /></p>
 
 <h2 id="a-máquina-bilionária-do-lawfare-soros-usaid-e-a-doutrinação-judicial">A MÁQUINA BILIONÁRIA DO LAWFARE: SOROS, USAID E A DOUTRINAÇÃO JUDICIAL</h2>
 
@@ -303,7 +353,7 @@
 
 <p>A REDE SE FECHA. USAID financia → American University treina → Harvard/Yale dão prestígio → Soros financia ONGs locais → Fact-checkers censuram oposição → Juízes doutrinados executam lawfare → Democracias caem. É uma máquina de guerra judicial alimentada por bilhões de dólares, operando há décadas, destruindo soberanias. E o pior: tudo feito “legalmente”, sob o manto da “filantropia” e “cooperação internacional”. O lawfare não é acidente - é design. E agora você sabe quem são os designers.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx8_e6MXMAMMMEY?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx8_e6MXMAMMMEY.jpg" alt="" /></p>
 
 <h2 id="8-de-janeiro-a-multa-coletiva-e-o-lawfare-em-massa">8 DE JANEIRO: A MULTA COLETIVA E O LAWFARE EM MASSA</h2>
 
@@ -349,7 +399,7 @@
 
 <p>A Vaza Toga completa prova: Brasil vive sob estado policial judicial comandado por um judiciário comprometido com o lawfare. Não é democracia, não é república, não é estado de direito. É autocracia tecno-legal onde ministros concentram poderes que nem Stalin sonhava. E tudo “legal”, “constitucional”, “em defesa da democracia”. O Brasil se tornou caso de estudo internacional de como destruir liberdades mantendo aparência de legalidade. É o lawfare em sua forma mais perfeita e aterrorizante.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx9ChJKXEAAU_Hd?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx9ChJKXEAAU_Hd.jpg" alt="" /></p>
 
 <h2 id="o-momento-decisivo-resistir-ou-aceitar-a-escravidão-judicial">O MOMENTO DECISIVO: RESISTIR OU ACEITAR A ESCRAVIDÃO JUDICIAL</h2>
 
@@ -369,7 +419,7 @@
 
 <p>A guerra jurídica continuará, mas agora não lutamos desarmados. Nossa arma é a verdade. Nossa defesa é a transparência. Nossa vitória virá quando a justiça voltar a ser justiça, não guerra. Até lá, resistimos. A próxima vítima do lawfare pode ser você. Ou pode ser alguém que, graças a você, saberá se defender. A escolha é sua. A guerra continua. Mas agora você sabe de que lado está.</p>
 
-<p><img src="https://pbs.twimg.com/media/Gx9D4zqWQAISXGs?format=jpg\&amp;name=4096x4096" alt="" /></p>
+<p><img src="https://pbs.twimg.com/media/Gx9D4zqWQAISXGs.jpg" alt="" /></p>
 
 <p>O PODER DO CONHECIMENTO. Compartilhe esta thread e siga <a href="https://x.com/leonardodias" title="Leonardo Dias">@Leonardo Dias</a>, <a href="https://x.com/arvor_ia" title="Arvor">@Arvor</a> e <a href="https://x.com/omastrolha" title="O MASTROLHA">@O MASTROLHA</a>. Não apenas dê like ou retweet - discuta com amigos, família, colegas. O lawfare prospera na ignorância e no silêncio. Cada pessoa que entende o jogo é uma pessoa a menos que pode ser manipulada. Cada cidadão consciente é um soldado na resistência. Eles investiram bilhões para manter você desinformado - sua arma é manter outros informados!</p>
 
@@ -377,12 +427,32 @@
 
 <p>Veja a nossa primeira thread depois do nosso piloto do Guerra da informação aqui: <a href="https://x.com/leonardodias/status/1951815923557601624">x.com/leonardodias/s</a></p>
 
-<h2 id="ver-a-linha-do-tempo">Ver a Linha do Tempo</h2>
+<h2 id="-ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</h2>
 <ul>
-  <li><a href="/bancos/">🏛️ Análise dos Escândalos Financeiros no Brasil (1995-2025)</a></li>
-  <li><a href="/escandalos/">💰 Escândalos Políticos no Brasil</a></li>
-  <li><a href="/justica/">⚖️ Casos de Corrupção no Sistema Judiciário Brasileiro</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="justica" /><category term="corrupcao" /><category term="tse" /><summary type="html"><![CDATA["Você já se perguntou por que tantos líderes políticos ao redor do mundo são subitamente investigados, presos ou impedidos de concorrer às eleições? Por que operações "anticorrupção" parecem sempre mirar determinados alvos políticos? Por que a justiça, que deveria ser cega, parece enxergar cores partidárias com tanta precisão?"]]></summary></entry><entry><title type="html">Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</title><link href="/justica/stf/tse/democracia-abalada.html" rel="alternate" type="text/html" title="Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️" /><published>2025-06-13T19:22:22-03:00</published><updated>2025-06-13T19:22:22-03:00</updated><id>/justica/stf/tse/democracia-abalada</id><content type="html" xml:base="/justica/stf/tse/democracia-abalada.html"><![CDATA[<h2 id="-introdução-contextualização-do-conteúdo-analisado">🔍 Introdução: Contextualização do Conteúdo Analisado</h2>
+  <li><a href="/lawfare/">📜 Análise das Interferências Judiciais no Processo Eleitoral Brasileiro</a></li>
+  <li><a href="/stf/">✒️ Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</a></li>
+  <li><a href="/tse/">🌐 Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️</a></li>
+  <li><a href="/dossie/">📝 Dossiê sobre Ações do Ministro Alexandre de Moraes</a></li>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="estudos" /><category term="justica" /><category term="corrupcao" /><category term="tse" /><category term="usaid" /><category term="cepps" /><summary type="html"><![CDATA["Você já se perguntou por que tantos líderes políticos ao redor do mundo são subitamente investigados, presos ou impedidos de concorrer às eleições?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jv-conseil.dev/assets/img/lawfare5.jpeg" /><media:content medium="image" url="https://www.jv-conseil.dev/assets/img/lawfare5.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Democracia Abalada ⚖️</title><link href="https://www.jv-conseil.dev/estudos/justica/stf/tse/democracia-abalada/" rel="alternate" type="text/html" title="Democracia Abalada ⚖️" /><published>2025-06-13T19:22:22-03:00</published><updated>2025-08-14T22:18:58-03:00</updated><id>https://www.jv-conseil.dev/estudos/justica/stf/tse/democracia-abalada</id><content type="html" xml:base="https://www.jv-conseil.dev/estudos/justica/stf/tse/democracia-abalada/"><![CDATA[<ul class="large-only" id="markdown-toc">
+  <li><a href="#democracia-abalada-stf-e-tse-no-contexto-político-brasileiro-2018-2023-️" id="markdown-toc-democracia-abalada-stf-e-tse-no-contexto-político-brasileiro-2018-2023-️">Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</a>    <ul>
+      <li><a href="#-introdução-contextualização-do-conteúdo-analisado" id="markdown-toc--introdução-contextualização-do-conteúdo-analisado">🔍 Introdução: Contextualização do Conteúdo Analisado</a></li>
+      <li><a href="#-visão-cronológica-evolução-das-críticas-ao-judiciário" id="markdown-toc--visão-cronológica-evolução-das-críticas-ao-judiciário">📅 Visão Cronológica: Evolução das Críticas ao Judiciário</a></li>
+      <li><a href="#️-abuso-de-autoridade-alegações-e-implicações-legais" id="markdown-toc-️-abuso-de-autoridade-alegações-e-implicações-legais">⚖️ Abuso de Autoridade: Alegações e Implicações Legais</a></li>
+      <li><a href="#-censura-judicial-restrições-à-liberdade-de-expressão" id="markdown-toc--censura-judicial-restrições-à-liberdade-de-expressão">🚫 Censura Judicial: Restrições à Liberdade de Expressão</a></li>
+      <li><a href="#️-interferência-nas-eleições-papel-do-tse-e-stf" id="markdown-toc-️-interferência-nas-eleições-papel-do-tse-e-stf">🗳️ Interferência nas Eleições: Papel do TSE e STF</a></li>
+      <li><a href="#-conexões-e-conflitos-de-interesse-redes-do-judiciário" id="markdown-toc--conexões-e-conflitos-de-interesse-redes-do-judiciário">👥 Conexões e Conflitos de Interesse: Redes do Judiciário</a></li>
+      <li><a href="#-decisões-unilaterais-e-inconstitucionalidades-ativismo-judicial" id="markdown-toc--decisões-unilaterais-e-inconstitucionalidades-ativismo-judicial">📜 Decisões Unilaterais e Inconstitucionalidades: Ativismo Judicial</a></li>
+      <li><a href="#-impactos-na-democracia-e-sociedade-consequências-sistêmicas" id="markdown-toc--impactos-na-democracia-e-sociedade-consequências-sistêmicas">💥 Impactos na Democracia e Sociedade: Consequências Sistêmicas</a></li>
+      <li><a href="#️-conclusão-recomendações-para-restauração-institucional" id="markdown-toc-️-conclusão-recomendações-para-restauração-institucional">🏛️ Conclusão: Recomendações para Restauração Institucional</a></li>
+      <li><a href="#-ver-a-linha-do-tempo" id="markdown-toc--ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</a></li>
+      <li><a href="#fontes-consultadas" id="markdown-toc-fontes-consultadas">Fontes Consultadas</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="democracia-abalada-stf-e-tse-no-contexto-político-brasileiro-2018-2023-️">Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</h1>
+
+<h2 id="-introdução-contextualização-do-conteúdo-analisado">🔍 Introdução: Contextualização do Conteúdo Analisado</h2>
 
 <p>Análise examina 38 artigos de diversas fontes jornalísticas, abrangendo o período de 2018 a 2023. O documento destaca alegações de abusos de autoridade, censura judicial, interferências eleitorais e decisões inconstitucionais por parte do Supremo Tribunal Federal (STF) e do Tribunal Superior Eleitoral (TSE). Esses temas refletem tensões crescentes entre o Poder Judiciário e os princípios democráticos, especialmente sob a presidência de Jair Bolsonaro e o governo Lula subsequente. A análise adota uma perspectiva formal, baseada em princípios constitucionais como a separação de poderes (art. 2º da CF/1988), liberdade de expressão (art. 5º, IV) e devido processo legal (art. 5º, LIV). Utilizando uma abordagem cronológica e temática, identifica padrões de conduta que podem comprometer a integridade institucional, com base em opiniões de constitucionalistas, juristas e relatórios jornalísticos. O objetivo é avaliar se tais ações configuram violações ao Estado Democrático de Direito, contribuindo para o debate acadêmico e jurídico sobre a accountability judicial no Brasil. O período analisado coincide com crises eleitorais, Lava Jato e polarização política, ampliando o escopo para implicações sistêmicas. A metodologia inclui revisão de fontes secundárias via buscas web e navegação de páginas, garantindo uma visão equilibrada, embora subjetiva em fontes ideológicas como Causa Operária.</p>
 
@@ -422,6 +492,14 @@
 
 <p>A análise conclui que, embora visem proteger democracia, ações do STF/TSE configuram riscos de autoritarismo judicial. Recomenda-se: fortalecimento de CPIs, reforma do art. 97 para proibir monocráticas, e accountability via CNJ. Sem reformas, a democracia permanece abalada, como alertado por Montesquieu sobre abuso de poder.</p>
 
+<h2 id="-ver-a-linha-do-tempo">🧮 Ver a Linha do Tempo</h2>
+<ul>
+  <li><a href="/lawfare/">📜 Análise das Interferências Judiciais no Processo Eleitoral Brasileiro</a></li>
+  <li><a href="/stf/">✒️ Democracia Abalada: STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️</a></li>
+  <li><a href="/tse/">🌐 Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️</a></li>
+  <li><a href="/dossie/">📝 Dossiê sobre Ações do Ministro Alexandre de Moraes</a></li>
+</ul>
+
 <h2 id="fontes-consultadas">Fontes Consultadas</h2>
 
 <ul>
@@ -453,21 +531,27 @@
   <li><a href="https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=496383&amp;ori=1">Plenário mantém resolução do TSE sobre combate à desinformação</a></li>
   <li><a href="https://agenciabrasil.ebc.com.br/justica/noticia/2023-12/maioria-do-stf-reafirma-validade-de-resolucao-do-tse-contra-fake-news">Maioria do STF reafirma validade de resolução do TSE contra fake news</a></li>
   <li><a href="https://www.gazetadopovo.com.br/vida-e-cidadania/stf-impoe-a-redes-censura-automatica-de-condutas-antidemocraticas/">STF impõe censura automática de “condutas antidemocráticas”</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="justica" /><category term="stf" /><category term="tse" /><summary type="html"><![CDATA["Compilação de 38 artigos (2018-2025) sobre controvérsias no STF/TSE: abusos de autoridade, censura judicial, interferências eleitorais e decisões inconstitucionais. Foco em Moraes, Barroso e Toffoli, com temas como fake news, bloqueios e ativismo. Revela tensões democráticas no Brasil pós-Lava Jato."]]></summary></entry><entry><title type="html">Debate sobre legislação, soberania e investigações</title><link href="/tse/debate-sobre-legislacao.html" rel="alternate" type="text/html" title="Debate sobre legislação, soberania e investigações" /><published>2024-06-15T00:00:00-03:00</published><updated>2024-06-15T00:00:00-03:00</updated><id>/tse/debate-sobre-legislacao</id><content type="html" xml:base="/tse/debate-sobre-legislacao.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="estudos" /><category term="justica" /><category term="stf" /><category term="tse" /><category term="eleicoes" /><category term="stf" /><summary type="html"><![CDATA["Compilação de 38 artigos (2018-2025) sobre controvérsias no STF/TSE: abusos de autoridade, censura judicial, interferências eleitorais e decisões inconstitucionais. "]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jv-conseil.dev/assets/img/lawfare2.jpeg" /><media:content medium="image" url="https://www.jv-conseil.dev/assets/img/lawfare2.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Debate sobre legislação, soberania e investigações</title><link href="https://www.jv-conseil.dev/tse/debate-sobre-legislacao/" rel="alternate" type="text/html" title="Debate sobre legislação, soberania e investigações" /><published>2024-06-15T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/debate-sobre-legislacao</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/debate-sobre-legislacao/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2024-06-15</li>
   <li><strong>Ano</strong>: 2024</li>
   <li><strong>Local</strong>: Nacional (Brasil)</li>
   <li><strong>Gravidade</strong>: alta</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>MPF</li>
-  <li>Congresso Nacional</li>
-  <li>TSE</li>
-  <li>ONGs</li>
-  <li>USAID</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.ainvestigacao.com/p/operation-uncle-joe-us-influence">https://www.ainvestigacao.com/p/operation-uncle-joe-us-influence</a></li>
-  <li><a href="https://dunapress.org/usaid-interference-in-brazil-raises-concerns-about-national-sovereignty/">https://dunapress.org/usaid-interference-in-brazil-raises-concerns-about-national-sovereignty/</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>MPF</li>
+      <li>Congresso Nacional</li>
+      <li>TSE</li>
+      <li>ONGs</li>
+      <li>USAID</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.ainvestigacao.com/p/operation-uncle-joe-us-influence">https://www.ainvestigacao.com/p/operation-uncle-joe-us-influence</a></li>
+      <li><a href="https://dunapress.org/usaid-interference-in-brazil-raises-concerns-about-national-sovereignty/">https://dunapress.org/usaid-interference-in-brazil-raises-concerns-about-national-sovereignty/</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -479,18 +563,24 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Debate%20sobre%20legisla%C3%A7%C3%A3o%2C%20soberania%20e%20investiga%C3%A7%C3%B5es%20Avan%C3%A7o%20do%20debate%20p%C3%BAblico%20e%20jur%C3%ADdico%20sobre%20os%20limites%20de%20influ%C3%AAncia%20internacional%2C%20doa%C3%A7%C3%B5es%20estrangeiras%20e%20necessidade%20de%20investiga%C3%A7%C3%B5es%20parlamentares%20e%20do%20MPF%2C%20com%20base%20em%20den%C3%BAncias%20de%20poss%C3%ADvel%20afronta%20%C3%A0%20soberania%20eleitoral.%20Nacional%20%28Brasil%29%202024">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Debate%20sobre%20legisla%C3%A7%C3%A3o%2C%20soberania%20e%20investiga%C3%A7%C3%B5es%20Avan%C3%A7o%20do%20debate%20p%C3%BAblico%20e%20jur%C3%ADdico%20sobre%20os%20limites%20de%20influ%C3%AAncia%20internacional%2C%20doa%C3%A7%C3%B5es%20estrangeiras%20e%20necessidade%20de%20investiga%C3%A7%C3%B5es%20parlamentares%20e%20do%20MPF%2C%20com%20base%20em%20den%C3%BAncias%20de%20poss%C3%ADvel%20afronta%20%C3%A0%20soberania%20eleitoral.%20Nacional%20%28Brasil%29%202024">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Nacional" /><category term="(Brasil)" /><summary type="html"><![CDATA[Avanço do debate público e jurídico sobre os limites de influência internacional, doações estrangeiras e necessidade de investigações parlamentares e do MPF, com base em denúncias de possível afronta à soberania eleitoral.]]></summary></entry><entry><title type="html">Criação e atuação da Procuradoria Nacional de Defesa da Democracia (PNDD)</title><link href="/tse/criacao-e-atuacao-da-procuradoria-nacional-de-defesa-da-democracia-pndd.html" rel="alternate" type="text/html" title="Criação e atuação da Procuradoria Nacional de Defesa da Democracia (PNDD)" /><published>2023-09-13T00:00:00-03:00</published><updated>2023-09-13T00:00:00-03:00</updated><id>/tse/criacao-e-atuacao-da-procuradoria-nacional-de-defesa-da-democracia-pndd</id><content type="html" xml:base="/tse/criacao-e-atuacao-da-procuradoria-nacional-de-defesa-da-democracia-pndd.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="nacional" /><category term="usaid" /><summary type="html"><![CDATA[Avanço do debate público e jurídico sobre os limites de influência internacional, doações estrangeiras e necessidade de investigações parlamentares e do MPF, com base em denúncias de possível afronta à soberania eleitoral.]]></summary></entry><entry><title type="html">Criação e atuação da Procuradoria Nacional de Defesa da Democracia (PNDD)</title><link href="https://www.jv-conseil.dev/tse/criacao-e-atuacao-da-procuradoria-nacional-de-defesa-da-democracia-pndd/" rel="alternate" type="text/html" title="Criação e atuação da Procuradoria Nacional de Defesa da Democracia (PNDD)" /><published>2023-09-13T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/criacao-e-atuacao-da-procuradoria-nacional-de-defesa-da-democracia-pndd</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/criacao-e-atuacao-da-procuradoria-nacional-de-defesa-da-democracia-pndd/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2023-09-13</li>
   <li><strong>Ano</strong>: 2023</li>
   <li><strong>Local</strong>: Brasília/DF e redes sociais</li>
   <li><strong>Gravidade</strong>: alta</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>AGU (Jorge Messias)</li>
-  <li>PNDD</li>
-  <li>Críticos e opositores (Alexandre Garcia, Stefanny Papaiano)</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.ainvestigacao.com/p/pt-utiliza-robos-mavs-e-o-novo-ministerio">https://www.ainvestigacao.com/p/pt-utiliza-robos-mavs-e-o-novo-ministerio</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>AGU (Jorge Messias)</li>
+      <li>PNDD</li>
+      <li>Críticos e opositores (Alexandre Garcia, Stefanny Papaiano)</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.ainvestigacao.com/p/pt-utiliza-robos-mavs-e-o-novo-ministerio">https://www.ainvestigacao.com/p/pt-utiliza-robos-mavs-e-o-novo-ministerio</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -502,19 +592,25 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Cria%C3%A7%C3%A3o%20e%20atua%C3%A7%C3%A3o%20da%20Procuradoria%20Nacional%20de%20Defesa%20da%20Democracia%20%28PNDD%29%20No%20in%C3%ADcio%20do%20governo%20Lula%2C%20a%20PNDD%20foi%20criada%20vinculada%20%C3%A0%20Advocacia-Geral%20da%20Uni%C3%A3o%20%28AGU%29%20para%20atuar%20no%20combate%20%C3%A0%20desinforma%C3%A7%C3%A3o%20sobre%20pol%C3%ADticas%20p%C3%BAblicas.%20Segundo%20cr%C3%ADticos%2C%20o%20%C3%B3rg%C3%A3o%20foi%20utilizado%20para%20perseguir%20juridicamente%20opositores%2C%20jornalistas%20e%20figuras%20p%C3%BAblicas%20contr%C3%A1rias%20ao%20governo%2C%20baseando-se%20em%20den%C3%BAncias%20subjetivas%20de%20fake%20news.%20Casos%20de%20atua%C3%A7%C3%A3o%20mais%20vis%C3%ADvel%20ocorreram%20ap%C3%B3s%20repercuss%C3%A3o%20de%20not%C3%ADcias%20sobre%20a%20calamidade%20no%20Sul%20do%20pa%C3%ADs.%20Bras%C3%ADlia/DF%20e%20redes%20sociais%202023">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Cria%C3%A7%C3%A3o%20e%20atua%C3%A7%C3%A3o%20da%20Procuradoria%20Nacional%20de%20Defesa%20da%20Democracia%20%28PNDD%29%20No%20in%C3%ADcio%20do%20governo%20Lula%2C%20a%20PNDD%20foi%20criada%20vinculada%20%C3%A0%20Advocacia-Geral%20da%20Uni%C3%A3o%20%28AGU%29%20para%20atuar%20no%20combate%20%C3%A0%20desinforma%C3%A7%C3%A3o%20sobre%20pol%C3%ADticas%20p%C3%BAblicas.%20Segundo%20cr%C3%ADticos%2C%20o%20%C3%B3rg%C3%A3o%20foi%20utilizado%20para%20perseguir%20juridicamente%20opositores%2C%20jornalistas%20e%20figuras%20p%C3%BAblicas%20contr%C3%A1rias%20ao%20governo%2C%20baseando-se%20em%20den%C3%BAncias%20subjetivas%20de%20fake%20news.%20Casos%20de%20atua%C3%A7%C3%A3o%20mais%20vis%C3%ADvel%20ocorreram%20ap%C3%B3s%20repercuss%C3%A3o%20de%20not%C3%ADcias%20sobre%20a%20calamidade%20no%20Sul%20do%20pa%C3%ADs.%20Bras%C3%ADlia/DF%20e%20redes%20sociais%202023">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Brasília/DF" /><category term="e" /><category term="redes" /><category term="sociais" /><summary type="html"><![CDATA[No início do governo Lula, a PNDD foi criada vinculada à Advocacia-Geral da União (AGU) para atuar no combate à desinformação sobre políticas públicas. Segundo críticos, o órgão foi utilizado para perseguir juridicamente opositores, jornalistas e figuras públicas contrárias ao governo, baseando-se em denúncias subjetivas de fake news. Casos de atuação mais visível ocorreram após repercussão de notícias sobre a calamidade no Sul do país.]]></summary></entry><entry><title type="html">Críticas de especialistas sobre ilegalidades e violações constitucionais</title><link href="/tse/criticas-de-especialistas-sobre-ilegalidades-e-violacoes-constitucionais.html" rel="alternate" type="text/html" title="Críticas de especialistas sobre ilegalidades e violações constitucionais" /><published>2023-07-01T00:00:00-03:00</published><updated>2023-07-01T00:00:00-03:00</updated><id>/tse/criticas-de-especialistas-sobre-ilegalidades-e-violacoes-constitucionais</id><content type="html" xml:base="/tse/criticas-de-especialistas-sobre-ilegalidades-e-violacoes-constitucionais.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="brasilia" /><category term="redes-sociais" /><category term="plataformas" /><category term="usaid" /><summary type="html"><![CDATA[No início do governo Lula, a PNDD foi criada vinculada à Advocacia-Geral da União (AGU) para atuar no combate à desinformação sobre políticas públicas. Segundo críticos, o órgão foi utilizado para perseguir juridicamente opositores, jornalistas e figuras públicas contrárias ao governo, baseando-se em denúncias subjetivas de fake news. Casos de atuação mais visível ocorreram após repercussão de notícias sobre a calamidade no Sul do país.]]></summary></entry><entry><title type="html">Críticas de especialistas sobre ilegalidades e violações constitucionais</title><link href="https://www.jv-conseil.dev/tse/criticas-de-especialistas-sobre-ilegalidades-e-violacoes-constitucionais/" rel="alternate" type="text/html" title="Críticas de especialistas sobre ilegalidades e violações constitucionais" /><published>2023-07-01T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/criticas-de-especialistas-sobre-ilegalidades-e-violacoes-constitucionais</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/criticas-de-especialistas-sobre-ilegalidades-e-violacoes-constitucionais/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2023-07-01</li>
   <li><strong>Ano</strong>: 2023</li>
   <li><strong>Local</strong>: Brasil (instituições jurídicas)</li>
   <li><strong>Gravidade</strong>: alta</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>Richard Campanari</li>
-  <li>Marco Aurélio Mello</li>
-  <li>Enio Viterbo</li>
-  <li>Deltan Dallagnol</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>Richard Campanari</li>
+      <li>Marco Aurélio Mello</li>
+      <li>Enio Viterbo</li>
+      <li>Deltan Dallagnol</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -526,20 +622,26 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Cr%C3%ADticas%20de%20especialistas%20sobre%20ilegalidades%20e%20viola%C3%A7%C3%B5es%20constitucionais%20Juristas%20renomados%20criticaram%20opera%C3%A7%C3%B5es%20de%20Moraes%20e%20TSE%20por%20abuso%20de%20poder%2C%20viola%C3%A7%C3%A3o%20do%20devido%20processo%2C%20concentra%C3%A7%C3%A3o%20indevida%20e%20uso%20pol%C3%ADtico%20da%20justi%C3%A7a%2C%20destacando%20incompatibilidade%20com%20a%20Constitui%C3%A7%C3%A3o.%20Brasil%20%28institui%C3%A7%C3%B5es%20jur%C3%ADdicas%29%202023">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Cr%C3%ADticas%20de%20especialistas%20sobre%20ilegalidades%20e%20viola%C3%A7%C3%B5es%20constitucionais%20Juristas%20renomados%20criticaram%20opera%C3%A7%C3%B5es%20de%20Moraes%20e%20TSE%20por%20abuso%20de%20poder%2C%20viola%C3%A7%C3%A3o%20do%20devido%20processo%2C%20concentra%C3%A7%C3%A3o%20indevida%20e%20uso%20pol%C3%ADtico%20da%20justi%C3%A7a%2C%20destacando%20incompatibilidade%20com%20a%20Constitui%C3%A7%C3%A3o.%20Brasil%20%28institui%C3%A7%C3%B5es%20jur%C3%ADdicas%29%202023">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Brasil" /><category term="(instituições" /><category term="jurídicas)" /><summary type="html"><![CDATA[Juristas renomados criticaram operações de Moraes e TSE por abuso de poder, violação do devido processo, concentração indevida e uso político da justiça, destacando incompatibilidade com a Constituição.]]></summary></entry><entry><title type="html">Relatórios detalham repasses da USAID a ONGs</title><link href="/tse/relatorios-detalham-repasses-da-usaid-a-ongs.html" rel="alternate" type="text/html" title="Relatórios detalham repasses da USAID a ONGs" /><published>2023-05-11T00:00:00-03:00</published><updated>2023-05-11T00:00:00-03:00</updated><id>/tse/relatorios-detalham-repasses-da-usaid-a-ongs</id><content type="html" xml:base="/tse/relatorios-detalham-repasses-da-usaid-a-ongs.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="brasil-instituicoes-juridicas" /><summary type="html"><![CDATA[Juristas renomados criticaram operações de Moraes e TSE por abuso de poder, violação do devido processo, concentração indevida e uso político da justiça, destacando incompatibilidade com a Constituição.]]></summary></entry><entry><title type="html">Relatórios detalham repasses da USAID a ONGs</title><link href="https://www.jv-conseil.dev/tse/relatorios-detalham-repasses-da-usaid-a-ongs/" rel="alternate" type="text/html" title="Relatórios detalham repasses da USAID a ONGs" /><published>2023-05-11T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/relatorios-detalham-repasses-da-usaid-a-ongs</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/relatorios-detalham-repasses-da-usaid-a-ongs/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2023-05-11</li>
   <li><strong>Ano</strong>: 2023</li>
   <li><strong>Local</strong>: Nacional (Brasil)</li>
   <li><strong>Gravidade</strong>: média</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>USAID</li>
-  <li>ONGs brasileiras</li>
-  <li>líderes de ONGs</li>
-  <li>ativistas</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.gazetadopovo.com.br/republica/mais-de-duas-dezenas-de-ongs-brasileiras-receberam-r-267-milhoes-da-usaid/">https://www.gazetadopovo.com.br/republica/mais-de-duas-dezenas-de-ongs-brasileiras-receberam-r-267-milhoes-da-usaid/</a></li>
-  <li><a href="https://eyesonbrasil.com/usaid-and-brazils-2022-elections-a-controversial-intersection/">https://eyesonbrasil.com/usaid-and-brazils-2022-elections-a-controversial-intersection/</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>USAID</li>
+      <li>ONGs brasileiras</li>
+      <li>líderes de ONGs</li>
+      <li>ativistas</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.gazetadopovo.com.br/republica/mais-de-duas-dezenas-de-ongs-brasileiras-receberam-r-267-milhoes-da-usaid/">https://www.gazetadopovo.com.br/republica/mais-de-duas-dezenas-de-ongs-brasileiras-receberam-r-267-milhoes-da-usaid/</a></li>
+      <li><a href="https://eyesonbrasil.com/usaid-and-brazils-2022-elections-a-controversial-intersection/">https://eyesonbrasil.com/usaid-and-brazils-2022-elections-a-controversial-intersection/</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -551,18 +653,24 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Relat%C3%B3rios%20detalham%20repasses%20da%20USAID%20a%20ONGs%20Reportagens%20revelam%20que%20ao%20menos%20duas%20dezenas%20de%20ONGs%20brasileiras%20receberam%20mais%20de%20R%24%20267%20milh%C3%B5es%20da%20USAID%20entre%202022-2024%2C%20com%20parte%20significativa%20destinada%20a%20iniciativas%20voltadas%20%C3%A0%20comunica%C3%A7%C3%A3o%2C%20ativismo%2C%20minorias%20e%20pol%C3%ADticas%20ambientais%20em%20contexto%20eleitoral.%20Nacional%20%28Brasil%29%202023">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Relat%C3%B3rios%20detalham%20repasses%20da%20USAID%20a%20ONGs%20Reportagens%20revelam%20que%20ao%20menos%20duas%20dezenas%20de%20ONGs%20brasileiras%20receberam%20mais%20de%20R%24%20267%20milh%C3%B5es%20da%20USAID%20entre%202022-2024%2C%20com%20parte%20significativa%20destinada%20a%20iniciativas%20voltadas%20%C3%A0%20comunica%C3%A7%C3%A3o%2C%20ativismo%2C%20minorias%20e%20pol%C3%ADticas%20ambientais%20em%20contexto%20eleitoral.%20Nacional%20%28Brasil%29%202023">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Nacional" /><category term="(Brasil)" /><summary type="html"><![CDATA[Reportagens revelam que ao menos duas dezenas de ONGs brasileiras receberam mais de R$ 267 milhões da USAID entre 2022-2024, com parte significativa destinada a iniciativas voltadas à comunicação, ativismo, minorias e políticas ambientais em contexto eleitoral.]]></summary></entry><entry><title type="html">Uso ilegal de banco de dados biométricos e redes sociais para classificar detentos</title><link href="/tse/uso-ilegal-de-banco-de-dados-biometricos-e-redes-sociais-para-classificar-detentos.html" rel="alternate" type="text/html" title="Uso ilegal de banco de dados biométricos e redes sociais para classificar detentos" /><published>2023-01-20T00:00:00-03:00</published><updated>2023-01-20T00:00:00-03:00</updated><id>/tse/uso-ilegal-de-banco-de-dados-biometricos-e-redes-sociais-para-classificar-detentos</id><content type="html" xml:base="/tse/uso-ilegal-de-banco-de-dados-biometricos-e-redes-sociais-para-classificar-detentos.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="nacional" /><category term="usaid" /><summary type="html"><![CDATA[Reportagens revelam que ao menos duas dezenas de ONGs brasileiras receberam mais de R$ 267 milhões da USAID entre 2022-2024, com parte significativa destinada a iniciativas voltadas à comunicação, ativismo, minorias e políticas ambientais em contexto eleitoral.]]></summary></entry><entry><title type="html">Uso ilegal de banco de dados biométricos e redes sociais para classificar detentos</title><link href="https://www.jv-conseil.dev/tse/uso-ilegal-de-banco-de-dados-biometricos-e-redes-sociais-para-classificar-detentos/" rel="alternate" type="text/html" title="Uso ilegal de banco de dados biométricos e redes sociais para classificar detentos" /><published>2023-01-20T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/uso-ilegal-de-banco-de-dados-biometricos-e-redes-sociais-para-classificar-detentos</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/uso-ilegal-de-banco-de-dados-biometricos-e-redes-sociais-para-classificar-detentos/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2023-01-20</li>
   <li><strong>Ano</strong>: 2023</li>
   <li><strong>Local</strong>: Brasil (diversos locais)</li>
   <li><strong>Gravidade</strong>: alta</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>Equipe AEED do TSE</li>
-  <li>Iuri Camargo Kisovec (Administrador do GestBio)</li>
-  <li>Detentos classificados</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>Equipe AEED do TSE</li>
+      <li>Iuri Camargo Kisovec (Administrador do GestBio)</li>
+      <li>Detentos classificados</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -574,19 +682,25 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Uso%20ilegal%20de%20banco%20de%20dados%20biom%C3%A9tricos%20e%20redes%20sociais%20para%20classificar%20detentos%20Equipe%20do%20TSE%20utilizou%20dados%20biom%C3%A9tricos%2C%20redes%20sociais%20e%20sistemas%20para%20classificar%20pessoas%20como%20%27positivas%27%20ou%20%27negativas%27%2C%20baseando%20deten%C3%A7%C3%B5es%20em%20postagens%20e%20opini%C3%B5es%20pol%C3%ADticas%20sem%20avalia%C3%A7%C3%A3o%20jur%C3%ADdica%20adequada.%20Brasil%20%28diversos%20locais%29%202023">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Uso%20ilegal%20de%20banco%20de%20dados%20biom%C3%A9tricos%20e%20redes%20sociais%20para%20classificar%20detentos%20Equipe%20do%20TSE%20utilizou%20dados%20biom%C3%A9tricos%2C%20redes%20sociais%20e%20sistemas%20para%20classificar%20pessoas%20como%20%27positivas%27%20ou%20%27negativas%27%2C%20baseando%20deten%C3%A7%C3%B5es%20em%20postagens%20e%20opini%C3%B5es%20pol%C3%ADticas%20sem%20avalia%C3%A7%C3%A3o%20jur%C3%ADdica%20adequada.%20Brasil%20%28diversos%20locais%29%202023">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Brasil" /><category term="(diversos" /><category term="locais)" /><summary type="html"><![CDATA[Equipe do TSE utilizou dados biométricos, redes sociais e sistemas para classificar pessoas como 'positivas' ou 'negativas', baseando detenções em postagens e opiniões políticas sem avaliação jurídica adequada.]]></summary></entry><entry><title type="html">Formação do grupo ‘Custody Hearings’ para coordenação de prisões</title><link href="/tse/formacao-do-grupo-custody-hearings-para-coordenacao-de-prisoes.html" rel="alternate" type="text/html" title="Formação do grupo ‘Custody Hearings’ para coordenação de prisões" /><published>2023-01-13T00:00:00-03:00</published><updated>2023-01-13T00:00:00-03:00</updated><id>/tse/formacao-do-grupo-custody-hearings-para-coordenacao-de-prisoes</id><content type="html" xml:base="/tse/formacao-do-grupo-custody-hearings-para-coordenacao-de-prisoes.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="brasil-diversos-locais" /><summary type="html"><![CDATA[Equipe do TSE utilizou dados biométricos, redes sociais e sistemas para classificar pessoas como 'positivas' ou 'negativas', baseando detenções em postagens e opiniões políticas sem avaliação jurídica adequada.]]></summary></entry><entry><title type="html">Formação do grupo ‘Custody Hearings’ para coordenação de prisões</title><link href="https://www.jv-conseil.dev/tse/formacao-do-grupo-custody-hearings-para-coordenacao-de-prisoes/" rel="alternate" type="text/html" title="Formação do grupo ‘Custody Hearings’ para coordenação de prisões" /><published>2023-01-13T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/formacao-do-grupo-custody-hearings-para-coordenacao-de-prisoes</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/formacao-do-grupo-custody-hearings-para-coordenacao-de-prisoes/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2023-01-13</li>
   <li><strong>Ano</strong>: 2023</li>
   <li><strong>Local</strong>: Brasília (DF) e órgãos judiciais</li>
   <li><strong>Gravidade</strong>: alta</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>Cristina Yukiko Kusahara (STF)</li>
-  <li>Eduardo Tagliaferro (TSE)</li>
-  <li>Marco Antônio Martins Vargas (TSE)</li>
-  <li>Alexandre de Moraes (STF e TSE)</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>Cristina Yukiko Kusahara (STF)</li>
+      <li>Eduardo Tagliaferro (TSE)</li>
+      <li>Marco Antônio Martins Vargas (TSE)</li>
+      <li>Alexandre de Moraes (STF e TSE)</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -598,18 +712,24 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Forma%C3%A7%C3%A3o%20do%20grupo%20%27Custody%20Hearings%27%20para%20coordena%C3%A7%C3%A3o%20de%20pris%C3%B5es%20Grupo%20secreto%20via%20WhatsApp%20criado%20para%20coordenar%20audi%C3%AAncias%20de%20cust%C3%B3dia%20p%C3%B3s-8%20de%20janeiro%2C%20com%20servidores%20do%20STF%20e%20TSE%20sob%20comando%20direto%20de%20Alexandre%20de%20Moraes%20e%20Cristina%20Yukiko%20Kusahara%2C%20usando%20relat%C3%B3rios%20sigilosos.%20Bras%C3%ADlia%20%28DF%29%20e%20%C3%B3rg%C3%A3os%20judiciais%202023">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Forma%C3%A7%C3%A3o%20do%20grupo%20%27Custody%20Hearings%27%20para%20coordena%C3%A7%C3%A3o%20de%20pris%C3%B5es%20Grupo%20secreto%20via%20WhatsApp%20criado%20para%20coordenar%20audi%C3%AAncias%20de%20cust%C3%B3dia%20p%C3%B3s-8%20de%20janeiro%2C%20com%20servidores%20do%20STF%20e%20TSE%20sob%20comando%20direto%20de%20Alexandre%20de%20Moraes%20e%20Cristina%20Yukiko%20Kusahara%2C%20usando%20relat%C3%B3rios%20sigilosos.%20Bras%C3%ADlia%20%28DF%29%20e%20%C3%B3rg%C3%A3os%20judiciais%202023">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Brasília" /><category term="(DF)" /><category term="e" /><category term="órgãos" /><category term="judiciais" /><summary type="html"><![CDATA[Grupo secreto via WhatsApp criado para coordenar audiências de custódia pós-8 de janeiro, com servidores do STF e TSE sob comando direto de Alexandre de Moraes e Cristina Yukiko Kusahara, usando relatórios sigilosos.]]></summary></entry><entry><title type="html">Audiências de custódia simuladas e controle centralizado por Alexandre de Moraes</title><link href="/tse/audiencias-de-custodia-simuladas-e-controle-centralizado-por-alexandre-de-moraes.html" rel="alternate" type="text/html" title="Audiências de custódia simuladas e controle centralizado por Alexandre de Moraes" /><published>2023-01-10T00:00:00-03:00</published><updated>2023-01-10T00:00:00-03:00</updated><id>/tse/audiencias-de-custodia-simuladas-e-controle-centralizado-por-alexandre-de-moraes</id><content type="html" xml:base="/tse/audiencias-de-custodia-simuladas-e-controle-centralizado-por-alexandre-de-moraes.html"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="brasilia-df-e-orgaos-judiciais" /><summary type="html"><![CDATA[Grupo secreto via WhatsApp criado para coordenar audiências de custódia pós-8 de janeiro, com servidores do STF e TSE sob comando direto de Alexandre de Moraes e Cristina Yukiko Kusahara, usando relatórios sigilosos.]]></summary></entry><entry><title type="html">Audiências de custódia simuladas e controle centralizado por Alexandre de Moraes</title><link href="https://www.jv-conseil.dev/tse/audiencias-de-custodia-simuladas-e-controle-centralizado-por-alexandre-de-moraes/" rel="alternate" type="text/html" title="Audiências de custódia simuladas e controle centralizado por Alexandre de Moraes" /><published>2023-01-10T00:00:00-03:00</published><updated>2025-08-13T20:52:05-03:00</updated><id>https://www.jv-conseil.dev/tse/audiencias-de-custodia-simuladas-e-controle-centralizado-por-alexandre-de-moraes</id><content type="html" xml:base="https://www.jv-conseil.dev/tse/audiencias-de-custodia-simuladas-e-controle-centralizado-por-alexandre-de-moraes/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2023-01-10</li>
   <li><strong>Ano</strong>: 2023</li>
   <li><strong>Local</strong>: Brasil</li>
   <li><strong>Gravidade</strong>: alta</li>
-  <li><strong>Envolvidos</strong>:</li>
-  <li>Alexandre de Moraes</li>
-  <li>Juízes de primeira instância</li>
-  <li>Detentos</li>
-  <li><strong>Fontes</strong>:</li>
-  <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>Alexandre de Moraes</li>
+      <li>Juízes de primeira instância</li>
+      <li>Detentos</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests">https://www.civilizationworks.org/cw-master-blog/the-january-8th-files-inside-brazils-secret-judicial-task-force-for-mass-arrests</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="analise-por-ia">Analise por IA</h2>
@@ -621,4 +741,4 @@
 <ul>
   <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Audi%C3%AAncias%20de%20cust%C3%B3dia%20simuladas%20e%20controle%20centralizado%20por%20Alexandre%20de%20Moraes%20Audi%C3%AAncias%20de%20cust%C3%B3dia%20foram%20meramente%20formalidades%20para%20validar%20pris%C3%B5es%20decididas%20pela%20equipe%20de%20Moraes%2C%20violando%20prazos%20e%20removendo%20poderes%20de%20magistrados%20locais.%20Brasil%202023">🌐🔍 Busca no Google para o título e descrição</a></li>
   <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Audi%C3%AAncias%20de%20cust%C3%B3dia%20simuladas%20e%20controle%20centralizado%20por%20Alexandre%20de%20Moraes%20Audi%C3%AAncias%20de%20cust%C3%B3dia%20foram%20meramente%20formalidades%20para%20validar%20pris%C3%B5es%20decididas%20pela%20equipe%20de%20Moraes%2C%20violando%20prazos%20e%20removendo%20poderes%20de%20magistrados%20locais.%20Brasil%202023">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="Brasil" /><summary type="html"><![CDATA[Audiências de custódia foram meramente formalidades para validar prisões decididas pela equipe de Moraes, violando prazos e removendo poderes de magistrados locais.]]></summary></entry></feed>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="tse" /><category term="tse" /><category term="brasil" /><summary type="html"><![CDATA[Audiências de custódia foram meramente formalidades para validar prisões decididas pela equipe de Moraes, violando prazos e removendo poderes de magistrados locais.]]></summary></entry></feed>
