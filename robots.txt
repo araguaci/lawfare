@@ -1,1 +1,1 @@
-Sitemap: https://www.jv-conseil.dev/sitemap.xml
+Sitemap: https://lawfare-three.vercel.app//sitemap.xml
