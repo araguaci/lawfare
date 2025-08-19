@@ -1,13 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed/by_tag/impessoalidade.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2025-08-17T00:57:09-03:00</updated><id>http://localhost:4000/feed/by_tag/impessoalidade.xml</id><title type="html">LAWFARE</title><subtitle>### 🧩 **Nossa Abordagem Investigativa**
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed/by_tag/impessoalidade.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2025-08-19T18:03:45-03:00</updated><id>http://localhost:4000/feed/by_tag/impessoalidade.xml</id><title type="html">LAWFARE</title><subtitle>### 🧩 **Nossa Abordagem Investigativa**
 Realizamos uma análise sistemática de eventos e factos públicos. O nosso conteúdo é compilado a partir de centenas de fontes de domínio público, incluindo matérias jornalísticas, relatórios oficiais e documentos.
 O nosso principal objetivo é sintetizar estas informações dispersas para oferecer uma visão consolidada e analítica dos temas, sem introduzir elementos especulativos ou não verificáveis.
 ### 📜 **Fontes e Princípios de Curadoria**
 O conteúdo deste portal limita-se à agregação e organização de dados preexistentes. As nossas fontes incluem: - Reportagens de fontes credíveis; - Decisões judiciais; - Relatórios de órgãos como o Supremo Tribunal Federal (STF), o Tribunal de Contas da União (TCU) e o Ministério Público Federal (MPF); - Análises académicas e internacionais.
 Não se trata da produção de novas evidências. O nosso trabalho é uma curadoria imparcial, focada em facilitar o entendimento de padrões sistémicos relacionados com a corrupção, o sistema judiciário e as interferências políticas.
-</subtitle><author><name>LAWFARE</name><email>johndoe@example.com</email></author><entry><title type="html">Moraes faz gesto obsceno para torcedores em jogo do Corinthians contra Palmeiras pela Copa do Brasil, após ter sido sancionado pela Lei Magnitsky</title><link href="http://localhost:4000/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil/" rel="alternate" type="text/html" title="Moraes faz gesto obsceno para torcedores em jogo do Corinthians contra Palmeiras pela Copa do Brasil, após ter sido sancionado pela Lei Magnitsky" /><published>2025-07-30T00:00:00-03:00</published><updated>2025-08-13T11:45:09-03:00</updated><id>http://localhost:4000/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil</id><content type="html" xml:base="http://localhost:4000/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
+</subtitle><author><name>LAWFARE</name><email>johndoe@example.com</email></author><entry><title type="html">Moraes faz gesto obsceno para torcedores em jogo do Corinthians contra Palmeiras pela Copa do Brasil, após ter sido sancionado pela Lei Magnitsky</title><link href="http://localhost:4000/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil/" rel="alternate" type="text/html" title="Moraes faz gesto obsceno para torcedores em jogo do Corinthians contra Palmeiras pela Copa do Brasil, após ter sido sancionado pela Lei Magnitsky" /><published>2025-07-30T00:00:00-03:00</published><updated>2025-08-19T17:59:48-03:00</updated><id>http://localhost:4000/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil</id><content type="html" xml:base="http://localhost:4000/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil/"><![CDATA[<h2 id="detalhes">Detalhes</h2>
 <ul>
   <li><strong>Data</strong>: 2025/07/30</li>
   <li><strong>Ano</strong>: 2025</li>
+  <li><strong>Descrição Completa</strong>: Alexandre de Moraes realiza gesto obsceno direcionado a torcedores durante jogo do Corinthians contra Palmeiras, logo após sanções da Lei Magnitsky, gerando debates sobre moralidade e impessoalidade judicial.</li>
+  <li><strong>Gravidade</strong>: alta (ícone: fa-exclamation-triangle)</li>
   <li><strong>Violações</strong>:
     <ul>
       <li>Moralidade</li>
@@ -15,15 +17,28 @@ Não se trata da produção de novas evidências. O nosso trabalho é uma curado
       <li>Dignidade da Pessoa Humana</li>
     </ul>
   </li>
+  <li><strong>Envolvidos</strong>:
+    <ul>
+      <li>Alexandre de Moraes</li>
+      <li>Torcedores do Corinthians</li>
+      <li>Governo EUA</li>
+    </ul>
+  </li>
+  <li><strong>Fontes</strong>:
+    <ul>
+      <li><a href="https://www.bbc.com/portuguese/articles/cx2xnn4wplro">https://www.bbc.com/portuguese/articles/cx2xnn4wplro</a></li>
+      <li><a href="https://cj.estrategia.com/portal/lei-magnitsky-contra-alexandre-moraes/">https://cj.estrategia.com/portal/lei-magnitsky-contra-alexandre-moraes/</a></li>
+    </ul>
+  </li>
 </ul>
 
-<h2 id="analise-por-ia">Analise por IA</h2>
+<h2 id="análise-por-ia">Análise por IA</h2>
 <ul>
-  <li><a href="https://www.perplexity.ai/search?q=%22Alexandre%20de%20Moraes%22%20Moraes%20faz%20gesto%20obsceno%20para%20torcedores%20em%20jogo%20do%20Corinthians%20contra%20Palmeiras%20pela%20Copa%20do%20Brasil%2C%20ap%C3%B3s%20ter%20sido%20sancionado%20pela%20Lei%20Magnitsky%20Moralidade%20Impessoalidade%20Dignidade%20da%20Pessoa%20Humana%202025">🤖 Investigar com IA</a></li>
+  <li><a href="https://www.perplexity.ai/search?q=%22Alexandre%20de%20Moraes%22%20Moraes%20faz%20gesto%20obsceno%20para%20torcedores%20em%20jogo%20do%20Corinthians%20contra%20Palmeiras%20pela%20Copa%20do%20Brasil%2C%20ap%C3%B3s%20ter%20sido%20sancionado%20pela%20Lei%20Magnitsky%20Alexandre%20de%20Moraes%20realiza%20gesto%20obsceno%20direcionado%20a%20torcedores%20durante%20jogo%20do%20Corinthians%20contra%20Palmeiras%2C%20logo%20ap%C3%B3s%20san%C3%A7%C3%B5es%20da%20Lei%20Magnitsky%2C%20gerando%20debates%20sobre%20moralidade%20e%20impessoalidade%20judicial.%20Moralidade%20Impessoalidade%20Dignidade%20da%20Pessoa%20Humana%202025%20gravidade%20alta">🤖 Investigar com IA</a></li>
 </ul>
 
 <h2 id="links-relacionados">Links Relacionados</h2>
 <ul>
-  <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Moraes%20faz%20gesto%20obsceno%20para%20torcedores%20em%20jogo%20do%20Corinthians%20contra%20Palmeiras%20pela%20Copa%20do%20Brasil%2C%20ap%C3%B3s%20ter%20sido%20sancionado%20pela%20Lei%20Magnitsky%20Moralidade%20Impessoalidade%20Dignidade%20da%20Pessoa%20Humana%202025">🌐🔍 Busca no Google para o título e descrição</a></li>
-  <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Moraes%20faz%20gesto%20obsceno%20para%20torcedores%20em%20jogo%20do%20Corinthians%20contra%20Palmeiras%20pela%20Copa%20do%20Brasil%2C%20ap%C3%B3s%20ter%20sido%20sancionado%20pela%20Lei%20Magnitsky%20Moralidade%20Impessoalidade%20Dignidade%20da%20Pessoa%20Humana%202025">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
-</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="dossie" /><category term="moralidade" /><category term="impessoalidade" /><category term="dignidade-da-pessoa-humana" /><summary type="html"><![CDATA[Ação em 2025/07/30 com violações associadas]]></summary></entry></feed>
+  <li><a href="https://www.google.com/search?q=%22Alexandre%20de%20Moraes%22%20Moraes%20faz%20gesto%20obsceno%20para%20torcedores%20em%20jogo%20do%20Corinthians%20contra%20Palmeiras%20pela%20Copa%20do%20Brasil%2C%20ap%C3%B3s%20ter%20sido%20sancionado%20pela%20Lei%20Magnitsky%20Alexandre%20de%20Moraes%20realiza%20gesto%20obsceno%20direcionado%20a%20torcedores%20durante%20jogo%20do%20Corinthians%20contra%20Palmeiras%2C%20logo%20ap%C3%B3s%20san%C3%A7%C3%B5es%20da%20Lei%20Magnitsky%2C%20gerando%20debates%20sobre%20moralidade%20e%20impessoalidade%20judicial.%20Moralidade%20Impessoalidade%20Dignidade%20da%20Pessoa%20Humana%202025%20gravidade%20alta">🌐🔍 Busca no Google para o título e descrição</a></li>
+  <li><a href="https://pt.wikipedia.org/w/index.php?search=%22Alexandre%20de%20Moraes%22%20Moraes%20faz%20gesto%20obsceno%20para%20torcedores%20em%20jogo%20do%20Corinthians%20contra%20Palmeiras%20pela%20Copa%20do%20Brasil%2C%20ap%C3%B3s%20ter%20sido%20sancionado%20pela%20Lei%20Magnitsky%20Alexandre%20de%20Moraes%20realiza%20gesto%20obsceno%20direcionado%20a%20torcedores%20durante%20jogo%20do%20Corinthians%20contra%20Palmeiras%2C%20logo%20ap%C3%B3s%20san%C3%A7%C3%B5es%20da%20Lei%20Magnitsky%2C%20gerando%20debates%20sobre%20moralidade%20e%20impessoalidade%20judicial.%20Moralidade%20Impessoalidade%20Dignidade%20da%20Pessoa%20Humana%202025%20gravidade%20alta">📖🔍 Busca na Wikipedia para o título e descrição</a></li>
+</ul>]]></content><author><name>LAWFARE</name><email>johndoe@example.com</email></author><category term="dossie" /><category term="moralidade" /><category term="impessoalidade" /><category term="dignidade-da-pessoa-humana" /><category term="alexandre-de-moraes" /><category term="torcedores-do-corinthians" /><category term="governo-eua" /><category term="gravidade-alta" /><summary type="html"><![CDATA[Ação em 2025/07/30 com violações, envolvidos, fontes e gravidade alta]]></summary></entry></feed>

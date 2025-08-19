@@ -32,7 +32,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Blog" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"LAWFARE"},"dateModified":"2024-03-29T13:08:05-03:00","description":"🧩 Nossa Abordagem Investigativa Realizamos uma análise sistemática de eventos e factos públicos. O nosso conteúdo é compilado a partir de centenas de fontes de domínio público, incluindo matérias jornalísticas, relatórios oficiais e documentos. O nosso principal objetivo é sintetizar estas informações dispersas para oferecer uma visão consolidada e analítica dos temas, sem introduzir elementos especulativos ou não verificáveis. 📜 Fontes e Princípios de Curadoria O conteúdo deste portal limita-se à agregação e organização de dados preexistentes. As nossas fontes incluem: - Reportagens de fontes credíveis; - Decisões judiciais; - Relatórios de órgãos como o Supremo Tribunal Federal (STF), o Tribunal de Contas da União (TCU) e o Ministério Público Federal (MPF); - Análises académicas e internacionais. Não se trata da produção de novas evidências. O nosso trabalho é uma curadoria imparcial, focada em facilitar o entendimento de padrões sistémicos relacionados com a corrupção, o sistema judiciário e as interferências políticas.","headline":"Blog","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/grok3.jpg"},"name":"LAWFARE"},"url":"http://localhost:4000/blog/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"LAWFARE"},"dateModified":"2025-08-19T17:59:48-03:00","description":"🧩 Nossa Abordagem Investigativa Realizamos uma análise sistemática de eventos e factos públicos. O nosso conteúdo é compilado a partir de centenas de fontes de domínio público, incluindo matérias jornalísticas, relatórios oficiais e documentos. O nosso principal objetivo é sintetizar estas informações dispersas para oferecer uma visão consolidada e analítica dos temas, sem introduzir elementos especulativos ou não verificáveis. 📜 Fontes e Princípios de Curadoria O conteúdo deste portal limita-se à agregação e organização de dados preexistentes. As nossas fontes incluem: - Reportagens de fontes credíveis; - Decisões judiciais; - Relatórios de órgãos como o Supremo Tribunal Federal (STF), o Tribunal de Contas da União (TCU) e o Ministério Público Federal (MPF); - Análises académicas e internacionais. Não se trata da produção de novas evidências. O nosso trabalho é uma curadoria imparcial, focada em facilitar o entendimento de padrões sistémicos relacionados com a corrupção, o sistema judiciário e as interferências políticas.","headline":"Blog","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/grok3.jpg"},"name":"LAWFARE"},"url":"http://localhost:4000/blog/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -118,7 +118,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-08-17T00:57:09-03:00',
+    INDEX_KEY: 'index--2025-08-19T18:03:45-03:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -224,7 +224,87 @@
     , 0 -5px 6px #ff8000
     , 0 -5px 21px #F00;
   }
+  .mb6,
+  .other-projects {
+    margin-bottom: 12rem;
+  }
+  .navigation-card {
+  @extend .color-transition;
+  width: 100%;
+  padding-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0.125rem 0.125rem 1rem rgba(0, 0, 0, 0.2);
+  contain: content;
+
+
+  /*
+   --body-color: #ccc;
+   --body-bg: var(--dark-mode-body-bg);
+   --border-color: var(--dark-mode-border-color);
+*/
+  color: var(--body-color);
+  background-color: #3b3b3f;
+  border-color: var(--dark-mode-border-color);
+
+  border-radius: $border-radius;
+
+  page-break-inside: avoid;
+
+  transition: transform 500ms ease;
+  will-change: transform;
+   &:hover {
+    transform: translateY(-0.25rem);
+    transition: transform 250ms ease;
+  }
+
+  > a.flip-project {
+    display: block;
+
+    .project-card-img {
+      margin-bottom: 0;
+      img {
+        display: block;
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+      }
+    }
+  }
+
+  a {
+    position: relative;
+    z-index: 1;
+
+    &.fill-card {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 0;
+    }
+  }
+
+  > .project-card-title,
+  > .project-card-text {
+    text-align: center;
+    padding: 0 1rem;
+  }
+
+  > .project-card-title {
+    display: block;
+    font-size: 1.08rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
+    color: inherit;
+  }
+
+  > .project-card-text {
+    margin: 0.25rem 0;
+  }
+}
 </style>
+
 
 
 
@@ -307,6 +387,194 @@
       <h2 id="y-2025">2025</h2>
       <div class="columns columns-break">
         
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/resumo-executivo/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/resumo-executivo/" class="flip-title">Resumo Executivo</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/resumo-executivo/" tabindex="-1">
+    <span class="sr-only">Continue reading Resumo Executivo
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/resumo-detalhado-dos-arquivos-do-8-de-janeiro/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/resumo-detalhado-dos-arquivos-do-8-de-janeiro/" class="flip-title">Resumo Detalhado dos Arquivos do 8 de Janeiro</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/resumo-detalhado-dos-arquivos-do-8-de-janeiro/" tabindex="-1">
+    <span class="sr-only">Continue reading Resumo Detalhado dos Arquivos do 8 de Janeiro
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/pontos-centrais/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/pontos-centrais/" class="flip-title">Pontos Centrais</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/pontos-centrais/" tabindex="-1">
+    <span class="sr-only">Continue reading Pontos Centrais
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/vazatoga/resumo-geral-dos-arquivos-do-8-de-janeiro/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/vazatoga/resumo-geral-dos-arquivos-do-8-de-janeiro/" class="flip-title">Resumo Geral dos Arquivos do 8 de Janeiro</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/vazatoga/resumo-geral-dos-arquivos-do-8-de-janeiro/" tabindex="-1">
+    <span class="sr-only">Continue reading Resumo Geral dos Arquivos do 8 de Janeiro
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
       
     
 
@@ -509,6 +777,53 @@
   
   <a class="fill-card no-hover" href="/projects/estudos/analise-de-supersalarios/" tabindex="-1">
     <span class="sr-only">Continue reading Sistema de Análise de Supersalários ✨
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/dossie/inclusao-de-silas-malafaia-no-inquerito-sobre-obstrucao-da-acao-do-golpe/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/dossie/inclusao-de-silas-malafaia-no-inquerito-sobre-obstrucao-da-acao-do-golpe/" class="flip-title">Inclusão de Silas Malafaia no inquérito sobre obstrução da ação do golpe, junto com Jair Bolsonaro, Eduardo Bolsonaro e Paulo Figueiredo, por supostas ações contra o STF e TSE nos EUA</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Ação em 2025/08/14 com violações, envolvidos, fontes e gravidade alta
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/dossie/inclusao-de-silas-malafaia-no-inquerito-sobre-obstrucao-da-acao-do-golpe/" tabindex="-1">
+    <span class="sr-only">Continue reading Inclusão de Silas Malafaia no inquérito sobre obstrução da ação do golpe, junto com Jair Bolsonaro, Eduardo Bolsonaro e Paulo Figueiredo, por supostas ações contra o STF e TSE nos EUA
 </span>
   </a>
 </article>
@@ -1052,7 +1367,7 @@
 
 
 <article class="project-card">
-  <a href="/estudos/justica/dossie/dossie-moares/" class="no-hover no-print-link flip-project" tabindex="-1">
+  <a href="/estudos/justica/dossie-moares/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
       
         
@@ -1064,7 +1379,7 @@
     </div>
   </a>
   <h3 class="project-card-title flip-project-title">
-    <a href="/estudos/justica/dossie/dossie-moares/" class="flip-title">Dossie Moares</a>
+    <a href="/estudos/justica/dossie-moares/" class="flip-title">Dossie Moares</a>
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
@@ -1073,7 +1388,7 @@
     </p>
   
   
-  <a class="fill-card no-hover" href="/estudos/justica/dossie/dossie-moares/" tabindex="-1">
+  <a class="fill-card no-hover" href="/estudos/justica/dossie-moares/" tabindex="-1">
     <span class="sr-only">Continue reading Dossie Moares
 </span>
   </a>
@@ -1374,7 +1689,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/08/04 com violações associadas
+      Ação em 2025/08/04 com violações, envolvidos, fontes e gravidade alta
 
     </p>
   
@@ -1421,7 +1736,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/08/04 com violações associadas
+      Ação em 2025/08/04 com violações, envolvidos, fontes e gravidade alta
 
     </p>
   
@@ -1468,7 +1783,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/08/04 com violações associadas
+      Ação em 2025/08/04 com violações, envolvidos, fontes e gravidade alta
 
     </p>
   
@@ -1515,7 +1830,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/08/04 com violações associadas
+      Ação em 2025/08/04 com violações, envolvidos, fontes e gravidade alta
 
     </p>
   
@@ -1787,6 +2102,53 @@
 
 
 <article class="project-card">
+  <a href="/dossie/investigacao-de-paulo-figueiredo-por-ligacoes-com-eduardo-bolsonaro-nos-eua/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/dossie/investigacao-de-paulo-figueiredo-por-ligacoes-com-eduardo-bolsonaro-nos-eua/" class="flip-title">Investigação de Paulo Figueiredo por ligações com Eduardo Bolsonaro nos EUA, no âmbito de inquérito sobre articulações contra o STF</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Ação em 2025/07/31 com violações, envolvidos, fontes e gravidade alta
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/dossie/investigacao-de-paulo-figueiredo-por-ligacoes-com-eduardo-bolsonaro-nos-eua/" tabindex="-1">
+    <span class="sr-only">Continue reading Investigação de Paulo Figueiredo por ligações com Eduardo Bolsonaro nos EUA, no âmbito de inquérito sobre articulações contra o STF
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
   <a href="/decano/jantar-com-lula-e-ministros-do-stf/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
       
@@ -1844,13 +2206,60 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/07/30 com violações associadas
+      Ação em 2025/07/30 com violações, envolvidos, fontes e gravidade alta
 
     </p>
   
   
   <a class="fill-card no-hover" href="/dossie/moraes-faz-gesto-obsceno-para-torcedores-em-jogo-do-corinthians-contra-palmeiras-pela-copa-do-brasil/" tabindex="-1">
     <span class="sr-only">Continue reading Moraes faz gesto obsceno para torcedores em jogo do Corinthians contra Palmeiras pela Copa do Brasil, após ter sido sancionado pela Lei Magnitsky
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/dossie/aplicacao-de-sancoes-financeiras-pelo-governo-trump-a-alexandre-de-moraes/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/dossie/aplicacao-de-sancoes-financeiras-pelo-governo-trump-a-alexandre-de-moraes/" class="flip-title">Aplicação de sanções financeiras pelo governo Trump a Alexandre de Moraes, em contexto de acusações de violações de direitos humanos relacionadas ao inquérito das fake news; reação inclui críticas de Malafaia e Figueiredo</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Ação em 2025/07/30 com violações, envolvidos, fontes e gravidade alta
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/dossie/aplicacao-de-sancoes-financeiras-pelo-governo-trump-a-alexandre-de-moraes/" tabindex="-1">
+    <span class="sr-only">Continue reading Aplicação de sanções financeiras pelo governo Trump a Alexandre de Moraes, em contexto de acusações de violações de direitos humanos relacionadas ao inquérito das fake news; reação inclui críticas de Malafaia e Figueiredo
 </span>
   </a>
 </article>
@@ -1891,7 +2300,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/07/28 com violações associadas
+      Ação em 2025/07/28 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -1975,6 +2384,53 @@
 
 
 <article class="project-card">
+  <a href="/dossie/moraes-intima-defesa-de-bolsonaro-em-24h-com-ameaca-de-prisao-por-declaracao-a-imprensa-sobre-tornozeleira/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/dossie/moraes-intima-defesa-de-bolsonaro-em-24h-com-ameaca-de-prisao-por-declaracao-a-imprensa-sobre-tornozeleira/" class="flip-title">Moraes intima defesa de Bolsonaro em 24h com ameaça de prisão por declaração à imprensa sobre tornozeleira</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Ação em 2025/07/25 com violações, envolvidos, fontes e gravidade não definido
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/dossie/moraes-intima-defesa-de-bolsonaro-em-24h-com-ameaca-de-prisao-por-declaracao-a-imprensa-sobre-tornozeleira/" tabindex="-1">
+    <span class="sr-only">Continue reading Moraes intima defesa de Bolsonaro em 24h com ameaça de prisão por declaração à imprensa sobre tornozeleira
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
   <a href="/dossie/moraes-da-ordem-para-a-retirada-de-parlamentares-que-montaram-acampamento-na-praca-dos-tres-poderes-em-brasilia-e-proibe-novos-acampamentos/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
       
@@ -1985,7 +2441,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/07/25 com violações associadas
+      Ação em 2025/07/25 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -2069,53 +2525,6 @@
 
 
 <article class="project-card">
-  <a href="/dossie/moraes-intima-defesa-de-bolsonaro-em-24h-com-ameaca-de-prisao-por-declaracao-a-imprensa-sobre-tornozeleira/" class="no-hover no-print-link flip-project" tabindex="-1">
-    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
-      
-    </div>
-  </a>
-  <h3 class="project-card-title flip-project-title">
-    <a href="/dossie/moraes-intima-defesa-de-bolsonaro-em-24h-com-ameaca-de-prisao-por-declaracao-a-imprensa-sobre-tornozeleira/" class="flip-title">Moraes intima defesa de Bolsonaro em 24h com ameaça de prisão por declaração à imprensa sobre tornozeleira</a>
-  </h3>
-  
-    <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/07/21 com violações associadas
-
-    </p>
-  
-  
-  <a class="fill-card no-hover" href="/dossie/moraes-intima-defesa-de-bolsonaro-em-24h-com-ameaca-de-prisao-por-declaracao-a-imprensa-sobre-tornozeleira/" tabindex="-1">
-    <span class="sr-only">Continue reading Moraes intima defesa de Bolsonaro em 24h com ameaça de prisão por declaração à imprensa sobre tornozeleira
-</span>
-  </a>
-</article>
-    </div>
-
-    
-
-    
-
-    
-      
-    
-
-    
-    <div class="column column-1-2">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<article class="project-card">
   <a href="/dossie/moraes-bloqueia-bens/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
       
@@ -2126,7 +2535,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/07/21 com violações associadas
+      Ação em 2025/07/21 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -2227,6 +2636,53 @@
   
   <a class="fill-card no-hover" href="/decano/declaracao-no-x/" tabindex="-1">
     <span class="sr-only">Continue reading Declaração no X
+</span>
+  </a>
+</article>
+    </div>
+
+    
+
+    
+
+    
+      
+    
+
+    
+    <div class="column column-1-2">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="project-card">
+  <a href="/dossie/moraes-prorroga-inquerito-que-investiga-atuacao-de-eduardo-bolsonaro-nos-eua-inclusao-de-posts-como-evidencia/" class="no-hover no-print-link flip-project" tabindex="-1">
+    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
+      
+    </div>
+  </a>
+  <h3 class="project-card-title flip-project-title">
+    <a href="/dossie/moraes-prorroga-inquerito-que-investiga-atuacao-de-eduardo-bolsonaro-nos-eua-inclusao-de-posts-como-evidencia/" class="flip-title">Moraes prorroga inquérito que investiga atuação de Eduardo Bolsonaro nos EUA; inclusão de posts como evidência</a>
+  </h3>
+  
+    <p class="project-card-text fine" property="disambiguatingDescription">
+      Ação em 2025/07/09 com violações, envolvidos, fontes e gravidade não definido
+
+    </p>
+  
+  
+  <a class="fill-card no-hover" href="/dossie/moraes-prorroga-inquerito-que-investiga-atuacao-de-eduardo-bolsonaro-nos-eua-inclusao-de-posts-como-evidencia/" tabindex="-1">
+    <span class="sr-only">Continue reading Moraes prorroga inquérito que investiga atuação de Eduardo Bolsonaro nos EUA; inclusão de posts como evidência
 </span>
   </a>
 </article>
@@ -2526,7 +2982,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/07/04 com violações associadas
+      Ação em 2025/07/04 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -3033,53 +3489,6 @@
 
 
 <article class="project-card">
-  <a href="/dossie/busca-contra-ong-por-relatorio-critico/" class="no-hover no-print-link flip-project" tabindex="-1">
-    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
-      
-    </div>
-  </a>
-  <h3 class="project-card-title flip-project-title">
-    <a href="/dossie/busca-contra-ong-por-relatorio-critico/" class="flip-title">Busca contra ONG por relatório crítico</a>
-  </h3>
-  
-    <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/06/20 com violações associadas
-
-    </p>
-  
-  
-  <a class="fill-card no-hover" href="/dossie/busca-contra-ong-por-relatorio-critico/" tabindex="-1">
-    <span class="sr-only">Continue reading Busca contra ONG por relatório crítico
-</span>
-  </a>
-</article>
-    </div>
-
-    
-
-    
-
-    
-      
-    
-
-    
-    <div class="column column-1-2">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<article class="project-card">
   <a href="/estudos/justica/stf/tse/democracia-abalada/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">
       
@@ -3198,53 +3607,6 @@
   
   <a class="fill-card no-hover" href="/projects/juizes-pedem-que-cnj-autorize-identificacao-de-quem-consulta-seus-salarios/" tabindex="-1">
     <span class="sr-only">Continue reading 📝 A Proposta dos Magistrados
-</span>
-  </a>
-</article>
-    </div>
-
-    
-
-    
-
-    
-      
-    
-
-    
-    <div class="column column-1-2">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<article class="project-card">
-  <a href="/dossie/censura-a-podcast-sobre-judiciario/" class="no-hover no-print-link flip-project" tabindex="-1">
-    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
-      
-    </div>
-  </a>
-  <h3 class="project-card-title flip-project-title">
-    <a href="/dossie/censura-a-podcast-sobre-judiciario/" class="flip-title">Censura a podcast sobre judiciário</a>
-  </h3>
-  
-    <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/06/05 com violações associadas
-
-    </p>
-  
-  
-  <a class="fill-card no-hover" href="/dossie/censura-a-podcast-sobre-judiciario/" tabindex="-1">
-    <span class="sr-only">Continue reading Censura a podcast sobre judiciário
 </span>
   </a>
 </article>
@@ -3604,53 +3966,6 @@
 
 
 <article class="project-card">
-  <a href="/dossie/prisao-de-youtuber-por-video-satirico/" class="no-hover no-print-link flip-project" tabindex="-1">
-    <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
-      
-    </div>
-  </a>
-  <h3 class="project-card-title flip-project-title">
-    <a href="/dossie/prisao-de-youtuber-por-video-satirico/" class="flip-title">Prisão de youtuber por vídeo satírico</a>
-  </h3>
-  
-    <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/05/16 com violações associadas
-
-    </p>
-  
-  
-  <a class="fill-card no-hover" href="/dossie/prisao-de-youtuber-por-video-satirico/" tabindex="-1">
-    <span class="sr-only">Continue reading Prisão de youtuber por vídeo satírico
-</span>
-  </a>
-</article>
-    </div>
-
-    
-
-    
-
-    
-      
-    
-
-    
-    <div class="column column-1-2">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-<article class="project-card">
   <a href="/decano/declaracao-sobre-81/" class="no-hover no-print-link flip-project" tabindex="-1">
     <div class="project-card-img aspect-ratio sixteen-nine fallback-img">
       
@@ -3844,7 +4159,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/04/25 com violações associadas
+      Ação em 2025/04/25 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -4079,7 +4394,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/04/08 com violações associadas
+      Ação em 2025/04/08 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -4267,7 +4582,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/03/28 com violações associadas
+      Ação em 2025/03/28 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -4314,7 +4629,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/03/12 com violações associadas
+      Ação em 2025/03/12 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -4455,7 +4770,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/02/27 com violações associadas
+      Ação em 2025/02/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -4831,7 +5146,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/02/06 com violações associadas
+      Ação em 2025/02/06 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -5113,7 +5428,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2025/01/15 com violações associadas
+      Ação em 2025/01/15 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -5973,7 +6288,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/12/19 com violações associadas
+      Ação em 2024/12/19 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -8699,7 +9014,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/11/14 com violações associadas
+      Ação em 2024/11/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -8746,7 +9061,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/11/05 com violações associadas
+      Ação em 2024/11/05 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -8793,7 +9108,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/10/30 com violações associadas
+      Ação em 2024/10/30 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -8840,7 +9155,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/10/02 com violações associadas
+      Ação em 2024/10/02 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -8929,7 +9244,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/09/19 com violações associadas
+      Ação em 2024/09/19 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -8976,7 +9291,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/09/13 com violações associadas
+      Ação em 2024/09/13 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9070,7 +9385,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/09/07 com violações associadas
+      Ação em 2024/09/07 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9117,7 +9432,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/08/29 com violações associadas
+      Ação em 2024/08/29 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9253,7 +9568,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/07/25 com violações associadas
+      Ação em 2024/07/25 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9300,7 +9615,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/07/18 com violações associadas
+      Ação em 2024/07/18 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9394,7 +9709,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/06/27 com violações associadas
+      Ação em 2024/06/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9624,7 +9939,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/06/06 com violações associadas
+      Ação em 2024/06/06 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -9718,7 +10033,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/05/08 com violações associadas
+      Ação em 2024/05/08 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10141,7 +10456,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/03/19 com violações associadas
+      Ação em 2024/03/19 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10188,7 +10503,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/03/04 com violações associadas
+      Ação em 2024/03/04 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10329,7 +10644,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/02/22 com violações associadas
+      Ação em 2024/02/22 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10423,7 +10738,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/02/08 com violações associadas
+      Ação em 2024/02/08 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10517,7 +10832,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/01/29 com violações associadas
+      Ação em 2024/01/29 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10611,7 +10926,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/01/25 com violações associadas
+      Ação em 2024/01/25 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -10705,7 +11020,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2024/01/18 com violações associadas
+      Ação em 2024/01/18 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11272,7 +11587,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/12/15 com violações associadas
+      Ação em 2023/12/15 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11507,7 +11822,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/11/27 com violações associadas
+      Ação em 2023/11/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11648,7 +11963,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/11/09 com violações associadas
+      Ação em 2023/11/09 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11789,7 +12104,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/10/18 com violações associadas
+      Ação em 2023/10/18 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11836,7 +12151,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/09/27 com violações associadas
+      Ação em 2023/09/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11883,7 +12198,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/09/21 com violações associadas
+      Ação em 2023/09/21 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -11930,7 +12245,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/09/14 com violações associadas
+      Ação em 2023/09/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -12207,7 +12522,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/08/11 com violações associadas
+      Ação em 2023/08/11 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -12254,7 +12569,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/08/09 com violações associadas
+      Ação em 2023/08/09 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -12301,7 +12616,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/08/04 com violações associadas
+      Ação em 2023/08/04 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -12762,7 +13077,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/07/21 com violações associadas
+      Ação em 2023/07/21 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -13123,7 +13438,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/07/06 com violações associadas
+      Ação em 2023/07/06 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -13442,7 +13757,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/06/27 com violações associadas
+      Ação em 2023/06/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -13714,7 +14029,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/06/22 com violações associadas
+      Ação em 2023/06/22 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -14483,7 +14798,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/05/16 com violações associadas
+      Ação em 2023/05/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -14718,7 +15033,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/05/03 com violações associadas
+      Ação em 2023/05/03 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -14765,7 +15080,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/04/25 com violações associadas
+      Ação em 2023/04/25 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -14906,7 +15221,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/03/17 com violações associadas
+      Ação em 2023/03/17 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15000,7 +15315,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/02/22 com violações associadas
+      Ação em 2023/02/22 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15047,7 +15362,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/02/08 com violações associadas
+      Ação em 2023/02/08 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15094,7 +15409,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/02/08 com violações associadas
+      Ação em 2023/02/08 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15282,7 +15597,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/23 com violações associadas
+      Ação em 2023/01/23 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15376,7 +15691,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/20 com violações associadas
+      Ação em 2023/01/20 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15423,7 +15738,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/19 com violações associadas
+      Ação em 2023/01/19 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15517,7 +15832,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/13 com violações associadas
+      Ação em 2023/01/13 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15564,7 +15879,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/12 com violações associadas
+      Ação em 2023/01/12 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15705,7 +16020,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/10 com violações associadas
+      Ação em 2023/01/10 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15752,7 +16067,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/10 com violações associadas
+      Ação em 2023/01/10 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -15893,7 +16208,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2023/01/09 com violações associadas
+      Ação em 2023/01/09 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16559,7 +16874,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/30 com violações associadas
+      Ação em 2022/12/30 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16606,7 +16921,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/27 com violações associadas
+      Ação em 2022/12/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16653,7 +16968,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/24 com violações associadas
+      Ação em 2022/12/24 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16747,7 +17062,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/16 com violações associadas
+      Ação em 2022/12/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16794,7 +17109,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/15 com violações associadas
+      Ação em 2022/12/15 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16841,7 +17156,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/14 com violações associadas
+      Ação em 2022/12/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16888,7 +17203,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/12 com violações associadas
+      Ação em 2022/12/12 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -16935,7 +17250,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/12/09 com violações associadas
+      Ação em 2022/12/09 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -17029,7 +17344,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/11/24 com violações associadas
+      Ação em 2022/11/24 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -17212,7 +17527,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/11/07 com violações associadas
+      Ação em 2022/11/07 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -17353,7 +17668,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/10/30 com violações associadas
+      Ação em 2022/10/30 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -17400,7 +17715,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/10/21 com violações associadas
+      Ação em 2022/10/21 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -17494,7 +17809,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/10/13 com violações associadas
+      Ação em 2022/10/13 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18105,7 +18420,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/09/06 com violações associadas
+      Ação em 2022/09/06 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18152,7 +18467,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/09/02 com violações associadas
+      Ação em 2022/09/02 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18246,7 +18561,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/08/23 com violações associadas
+      Ação em 2022/08/23 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18293,7 +18608,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/08/10 com violações associadas
+      Ação em 2022/08/10 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18528,7 +18843,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/07/13 com violações associadas
+      Ação em 2022/07/13 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18617,7 +18932,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/06/30 com violações associadas
+      Ação em 2022/06/30 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -18899,7 +19214,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/05/31 com violações associadas
+      Ação em 2022/05/31 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -19270,7 +19585,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/04/20 com violações associadas
+      Ação em 2022/04/20 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -19411,7 +19726,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/04/04 com violações associadas
+      Ação em 2022/04/04 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -19599,7 +19914,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/03/24 com violações associadas
+      Ação em 2022/03/24 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -19693,7 +20008,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/03/11 com violações associadas
+      Ação em 2022/03/11 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20116,7 +20431,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2022/01/03 com violações associadas
+      Ação em 2022/01/03 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20406,7 +20721,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/12/14 com violações associadas
+      Ação em 2021/12/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20500,7 +20815,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/11/24 com violações associadas
+      Ação em 2021/11/24 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20641,7 +20956,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/10/05 com violações associadas
+      Ação em 2021/10/05 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20735,7 +21050,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/09/20 com violações associadas
+      Ação em 2021/09/20 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20782,7 +21097,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/09/14 com violações associadas
+      Ação em 2021/09/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -20829,7 +21144,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/09/04 com violações associadas
+      Ação em 2021/09/04 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -21158,7 +21473,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/08/13 com violações associadas
+      Ação em 2021/08/13 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -21252,7 +21567,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/08/04 com violações associadas
+      Ação em 2021/08/04 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -21581,7 +21896,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/07/02 com violações associadas
+      Ação em 2021/07/02 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -21816,7 +22131,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/06/24 com violações associadas
+      Ação em 2021/06/24 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -22333,7 +22648,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/05/26 com violações associadas
+      Ação em 2021/05/26 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -22850,7 +23165,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/04/16 com violações associadas
+      Ação em 2021/04/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -23179,7 +23494,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/04/09 com violações associadas
+      Ação em 2021/04/09 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -23367,7 +23682,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/03/14 com violações associadas
+      Ação em 2021/03/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -23978,7 +24293,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/02/19 com violações associadas
+      Ação em 2021/02/19 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -24025,7 +24340,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/02/17 com violações associadas
+      Ação em 2021/02/17 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -24119,7 +24434,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/02/16 com violações associadas
+      Ação em 2021/02/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -24260,7 +24575,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/02/03 com violações associadas
+      Ação em 2021/02/03 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -24542,7 +24857,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2021/01/14 com violações associadas
+      Ação em 2021/01/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -25208,7 +25523,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/12/10 com violações associadas
+      Ação em 2020/12/10 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -25396,7 +25711,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/11/27 com violações associadas
+      Ação em 2020/11/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -25772,7 +26087,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/10/20 com violações associadas
+      Ação em 2020/10/20 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -26148,7 +26463,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/09/16 com violações associadas
+      Ação em 2020/09/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -26477,7 +26792,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/08/18 com violações associadas
+      Ação em 2020/08/18 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -26571,7 +26886,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/08/12 com violações associadas
+      Ação em 2020/08/12 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -26853,7 +27168,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/08/01 com violações associadas
+      Ação em 2020/08/01 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -26947,7 +27262,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/07/30 com violações associadas
+      Ação em 2020/07/30 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -26994,7 +27309,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/07/22 com violações associadas
+      Ação em 2020/07/22 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -27370,7 +27685,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/07/01 com violações associadas
+      Ação em 2020/07/01 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -27417,7 +27732,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/07/01 com violações associadas
+      Ação em 2020/07/01 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -27558,7 +27873,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/06/17 com violações associadas
+      Ação em 2020/06/17 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -27605,7 +27920,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/06/15 com violações associadas
+      Ação em 2020/06/15 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -27652,7 +27967,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/05/27 com violações associadas
+      Ação em 2020/05/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -27746,7 +28061,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/05/26 com violações associadas
+      Ação em 2020/05/26 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -28451,7 +28766,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/04/29 com violações associadas
+      Ação em 2020/04/29 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -28592,7 +28907,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2020/04/21 com violações associadas
+      Ação em 2020/04/21 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -29634,7 +29949,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2019/12/16 com violações associadas
+      Ação em 2019/12/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -30010,7 +30325,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2019/09/27 com violações associadas
+      Ação em 2019/09/27 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -31155,7 +31470,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2019/04/16 com violações associadas
+      Ação em 2019/04/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -31202,7 +31517,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2019/04/16 com violações associadas
+      Ação em 2019/04/16 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -31249,7 +31564,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2019/04/15 com violações associadas
+      Ação em 2019/04/15 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -31521,7 +31836,7 @@
   </h3>
   
     <p class="project-card-text fine" property="disambiguatingDescription">
-      Ação em 2019/03/14 com violações associadas
+      Ação em 2019/03/14 com violações, envolvidos, fontes e gravidade não definido
 
     </p>
   
@@ -51377,21 +51692,24 @@
   
   <div class="flex justify-center items-center m-2">
     <p>
-      ✠ KODOISH KODOISH KODOISH ADONAI TSEBAYOTH ✠
-    </p>
-    <p>
-      <a href="https://stop-war-for-ever.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&amp;logoColor=00aced&amp;style=flat" alt="STOP-WAR-FOR-EVER"></a>
-      <a href="https://abusosupremo.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&amp;logoColor=FED141&amp;style=flat" alt="ABUSO SUPREMO"></a>
-      <a href="https://futuroroubado.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&amp;logoColor=FED141&amp;style=flat" alt="FUTURO ROUBADO"></a>
-      <a href="https://abusofederal.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&amp;logoColor=FED141&amp;style=flat" alt="ABUSO FEDERAL"></a>
-      <a href="https://abaladademocracia.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&amp;logoColor=FED141&amp;style=flat" alt="DEMOCRACIA ABALADA"></a>
-    </p>
-    <p>
       <a class="mt-2" href="https://visitorbadge.io/status?path=https%3A%2F%2Flawfare-three.vercel.app%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Flawfare-three.vercel.app%2F&amp;label=%E2%9C%A0%20deram%20ciencia%20%E2%9C%A0&amp;countColor=%23132136&amp;style=flat&amp;labelStyle=lower"></a>
     </p>
     <p>
+      ✠ KODOISH KODOISH KODOISH ADONAI TSEBAYOTH ✠
+      </p>
+<blockquote>
+        “Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.” <br>
+        ~~ Jeremias 33:3
+      </blockquote>
+      <p>
+        <a href="https://stop-war-for-ever.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&amp;logoColor=00aced&amp;style=flat" alt="STOP-WAR-FOR-EVER"></a>
+        <a href="https://abusosupremo.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&amp;logoColor=FED141&amp;style=flat" alt="ABUSO SUPREMO"></a>
+        <a href="https://futuroroubado.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&amp;logoColor=FED141&amp;style=flat" alt="FUTURO ROUBADO"></a>
+        <a href="https://abusofederal.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&amp;logoColor=FED141&amp;style=flat" alt="ABUSO FEDERAL"></a>
+        <a href="https://abaladademocracia.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&amp;logoColor=FED141&amp;style=flat" alt="DEMOCRACIA ABALADA"></a>
+      </p>
       <a class="mt-2" href="#_main">⬆️ topo ⬆️</a>
-    </p>
+    
   </div>
   <hr class="sr-only">
 </footer>

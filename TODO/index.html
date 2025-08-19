@@ -32,7 +32,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Tópicos de Aplicação" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"LAWFARE"},"dateModified":"2025-08-17T00:36:54-03:00","description":"🧩 Nossa Abordagem Investigativa Realizamos uma análise sistemática de eventos e factos públicos. O nosso conteúdo é compilado a partir de centenas de fontes de domínio público, incluindo matérias jornalísticas, relatórios oficiais e documentos. O nosso principal objetivo é sintetizar estas informações dispersas para oferecer uma visão consolidada e analítica dos temas, sem introduzir elementos especulativos ou não verificáveis. 📜 Fontes e Princípios de Curadoria O conteúdo deste portal limita-se à agregação e organização de dados preexistentes. As nossas fontes incluem: - Reportagens de fontes credíveis; - Decisões judiciais; - Relatórios de órgãos como o Supremo Tribunal Federal (STF), o Tribunal de Contas da União (TCU) e o Ministério Público Federal (MPF); - Análises académicas e internacionais. Não se trata da produção de novas evidências. O nosso trabalho é uma curadoria imparcial, focada em facilitar o entendimento de padrões sistémicos relacionados com a corrupção, o sistema judiciário e as interferências políticas.","headline":"Tópicos de Aplicação","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/grok3.jpg"},"name":"LAWFARE"},"url":"http://localhost:4000/todo/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"LAWFARE"},"dateModified":"2025-08-19T17:59:48-03:00","description":"🧩 Nossa Abordagem Investigativa Realizamos uma análise sistemática de eventos e factos públicos. O nosso conteúdo é compilado a partir de centenas de fontes de domínio público, incluindo matérias jornalísticas, relatórios oficiais e documentos. O nosso principal objetivo é sintetizar estas informações dispersas para oferecer uma visão consolidada e analítica dos temas, sem introduzir elementos especulativos ou não verificáveis. 📜 Fontes e Princípios de Curadoria O conteúdo deste portal limita-se à agregação e organização de dados preexistentes. As nossas fontes incluem: - Reportagens de fontes credíveis; - Decisões judiciais; - Relatórios de órgãos como o Supremo Tribunal Federal (STF), o Tribunal de Contas da União (TCU) e o Ministério Público Federal (MPF); - Análises académicas e internacionais. Não se trata da produção de novas evidências. O nosso trabalho é uma curadoria imparcial, focada em facilitar o entendimento de padrões sistémicos relacionados com a corrupção, o sistema judiciário e as interferências políticas.","headline":"Tópicos de Aplicação","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/grok3.jpg"},"name":"LAWFARE"},"url":"http://localhost:4000/todo/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -118,7 +118,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-08-17T00:57:09-03:00',
+    INDEX_KEY: 'index--2025-08-19T18:03:45-03:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -224,7 +224,87 @@
     , 0 -5px 6px #ff8000
     , 0 -5px 21px #F00;
   }
+  .mb6,
+  .other-projects {
+    margin-bottom: 12rem;
+  }
+  .navigation-card {
+  @extend .color-transition;
+  width: 100%;
+  padding-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0.125rem 0.125rem 1rem rgba(0, 0, 0, 0.2);
+  contain: content;
+
+
+  /*
+   --body-color: #ccc;
+   --body-bg: var(--dark-mode-body-bg);
+   --border-color: var(--dark-mode-border-color);
+*/
+  color: var(--body-color);
+  background-color: #3b3b3f;
+  border-color: var(--dark-mode-border-color);
+
+  border-radius: $border-radius;
+
+  page-break-inside: avoid;
+
+  transition: transform 500ms ease;
+  will-change: transform;
+   &:hover {
+    transform: translateY(-0.25rem);
+    transition: transform 250ms ease;
+  }
+
+  > a.flip-project {
+    display: block;
+
+    .project-card-img {
+      margin-bottom: 0;
+      img {
+        display: block;
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+      }
+    }
+  }
+
+  a {
+    position: relative;
+    z-index: 1;
+
+    &.fill-card {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 0;
+    }
+  }
+
+  > .project-card-title,
+  > .project-card-text {
+    text-align: center;
+    padding: 0 1rem;
+  }
+
+  > .project-card-title {
+    display: block;
+    font-size: 1.08rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
+    color: inherit;
+  }
+
+  > .project-card-text {
+    margin: 0.25rem 0;
+  }
+}
 </style>
+
 
 
 
@@ -320,6 +400,8 @@
     </ul>
   </li>
   <li><a href="#-plano-de-a%C3%A7%C3%A3o-divulga%C3%A7%C3%A3o" id="markdown-toc--plano-de-ação-divulgação">📢 Plano de Ação: Divulgação</a></li>
+  <li><a href="#linhas-de-tempo-montadas" id="markdown-toc-linhas-de-tempo-montadas">Linhas de Tempo Montadas:</a></li>
+  <li><a href="#-ferramentas-de-analise-ia" id="markdown-toc--ferramentas-de-analise-ia">🤖 Ferramentas de Analise IA:</a></li>
 </ul>
 
 <ol>
@@ -810,61 +892,78 @@
 
 <hr>
 
-<p>Prezado <a href="https://github.com/leonardodias" class="user-mention">@leonardodias</a>, agradeço pela cessão das imagens de sua famosa thread sobre “lawfare”, assisti sua live “Guerra da Informação”. Com base nela e nas investigações do <a href="https://github.com/david_agape_" class="user-mention">@david_agape_</a> e <a href="https://github.com/EliVieiraJr" class="user-mention">@EliVieiraJr</a> me inspirou a criar uma área com as linhas de tempo de vários episódios de escândalos no Brasil.</p>
+<p>Prezado <a href="https://github.com/leonardodias" class="user-mention">@leonardodias</a>, agradeço pela cessão das imagens de sua famosa thread sobre “lawfare”, assisti sua live “Guerra da Informação”. Com base nela e nas investigações do <a href="https://github.com/david_agape_" class="user-mention">@david_agape_</a> e <a href="https://github.com/EliVieiraJr" class="user-mention">@EliVieiraJr</a> fiquei inspirado a criar uma área com as linhas de tempo de vários episódios de falhas sistêmicas e escândalos no Brasil usando 6 ferramentas de IA e 15 programas em python.</p>
 
-<p>Usando 6 ferramentas de IA e 15 programas em python montei as seguintes linhas de tempo:</p>
+<p>Incluo na conversa algumas pessoas cujo trabalho e opinião valorizo muito. Forte abraço. 🤝</p>
 
-<p>-📜Interferências Judiciais no Processo Eleitoral Brasileiro
-🔗https://tinyurl.com/timeline-stf</p>
+<h2 id="linhas-de-tempo-montadas">Linhas de Tempo Montadas:</h2>
 
-<p>-✒️STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️
-🔗https://tinyurl.com/timeline-4781</p>
+<p>-📜 Interferências Judiciais no Processo Eleitoral Brasileiro
+🔗 https://tinyurl.com/timeline-stf</p>
+
+<p>-✒️ STF e TSE no Contexto Político Brasileiro (2018-2023) ⚖️
+🔗 https://tinyurl.com/timeline-4781</p>
+
+<p>-🌐 Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️
+🔗 https://tinyurl.com/timeline-tse</p>
+
+<p>-📝 Ações do Violador de Direitos Humanos
+🔗 https://tinyurl.com/timeline-dossie</p>
+
+<p>-💰 Escândalos Políticos no Brasil
+🔗 https://tinyurl.com/timeline-gov</p>
+
+<p>-⚖️ Casos de Corrupção no Sistema Judiciário Brasileiro
+🔗 https://tinyurl.com/timeline-jus</p>
+
+<p>-🏛️ Escândalos Financeiros no Brasil (1995-2025)
+🔗 https://tinyurl.com/timeline-fin</p>
+
+<p>-🚔 Notáveis Operações Policiais Federais no Brasil (1992-2025)
+🔗 https://tinyurl.com/timeline-ope</p>
+
+<p>-⚖️ Penduricalhos no Sistema Judiciário
+🔗 https://tinyurl.com/timeline-farra</p>
+
+<p>-🎭 Gastos Extravagantes de Órgãos Públicos no Brasil (2000-2025)
+🔗 https://tinyurl.com/leideluxo</p>
+
+<p>-⛓️ Decisões Judiciais Beneficiando Criminosos no Brasil💥
+🔗 https://tinyurl.com/timeline-impune</p>
+
+<p>-🗣️ Gilmar Mendes, um ministro ou ator político?
+🔗 https://tinyurl.com/decano-vidaloka</p>
+
+<p>-🤷 Declarações controversas de ministros…
+🔗 https://tinyurl.com/plenopiti</p>
+
+<hr>
+
+<h2 id="-ferramentas-de-analise-ia">🤖 Ferramentas de Analise IA:</h2>
 
 <ul>
   <li>
-    <p>🌐Parceria entre o Tribunal Superior Eleitoral (TSE) e USAID ⚖️
-🔗https://tinyurl.com/timeline-tse</p>
+    <p>✨ Raio-X da Corrupção - Painel da Corrupção
+🔗 https://tinyurl.com/raiox-ia (ferramenta)
+🔗 https://tinyurl.com/ia-raio-x (descritivo)</p>
   </li>
   <li>
-    <p>📝Ações do Violador de Direitos Humanos
-🔗https://tinyurl.com/timeline-dossie</p>
+    <p>✨ Soberania do Brasil - Análise Estratégica
+🔗 https://tinyurl.com/soberania-ia</p>
   </li>
   <li>
-    <p>💰Escândalos Políticos no Brasil
-🔗https://tinyurl.com/timeline-gov</p>
+    <p>✨ A Arquitetura do Privilégio
+🔗 https://tinyurl.com/privilegio-ia</p>
   </li>
   <li>
-    <p>⚖️Casos de Corrupção no Sistema Judiciário Brasileiro
-🔗https://tinyurl.com/timeline-jus</p>
-  </li>
-  <li>
-    <p>🏛️Escândalos Financeiros no Brasil (1995-2025)
-🔗https://tinyurl.com/timeline-fin</p>
-  </li>
-  <li>
-    <p>🚔Notáveis Operações Policiais Federais no Brasil (1992-2025)
-🔗https://tinyurl.com/timeline-ope</p>
+    <p>✨ Sistema de Análise de Supersalários
+🔗 https://tinyurl.com/supersalarios-ia</p>
   </li>
 </ul>
 
-<p>-⚖️ Penduricalhos no Sistema Judiciário
-🔗https://tinyurl.com/timeline-farra</p>
+<p>Mais Lawfare: 🔗 https://tinyurl.com/lawfare-br</p>
 
-<p>-🎭 Gastos Extravagantes de Órgãos Públicos no Brasil (2000-2025)
-🔗https://tinyurl.com/leideluxo</p>
-
-<p>-⛓️Decisões Judiciais Beneficiando Criminosos no Brasil💥
-🔗https://tinyurl.com/timeline-impune</p>
-
-<p>-🗣️Gilmar Mendes, um ministro ou ator político?
-🔗https://tinyurl.com/decano-vidaloka</p>
-
-<p>-🤷Declarações controversas de ministros…
-🔗https://tinyurl.com/plenopiti</p>
-
-<p>Lawfare: https://tinyurl.com/lawfare-br</p>
-
-<p>—- cc:</p>
+<p>— CC: —</p>
 <ul>
   <li><a href="https://github.com/ClaudioLessa" class="user-mention">@ClaudioLessa</a></li>
   <li><a href="https://github.com/LeoVilhenaReal" class="user-mention">@LeoVilhenaReal</a></li>
@@ -896,6 +995,12 @@
   <li><a href="https://github.com/CarinaBelome" class="user-mention">@CarinaBelome</a></li>
   <li><a href="https://github.com/DefecatingB" class="user-mention">@DefecatingB</a></li>
   <li><a href="https://github.com/MafinhaBarba" class="user-mention">@MafinhaBarba</a></li>
+  <li><a href="https://github.com/arvor_ia" class="user-mention">@arvor_ia</a></li>
+  <li><a href="https://github.com/oeditorialNews" class="user-mention">@oeditorialNews</a></li>
+  <li><a href="https://github.com/GuerraDaInfor" class="user-mention">@GuerraDaInfor</a></li>
+  <li><a href="https://github.com/CleberT97506802" class="user-mention">@CleberT97506802</a></li>
+  <li><a href="https://github.com/canalsergio2" class="user-mention">@canalsergio2</a></li>
+  <li><a href="https://github.com/GringaVidaUsa" class="user-mention">@GringaVidaUsa</a></li>
 </ul>
 
 </article>
@@ -945,21 +1050,24 @@
   
   <div class="flex justify-center items-center m-2">
     <p>
-      ✠ KODOISH KODOISH KODOISH ADONAI TSEBAYOTH ✠
-    </p>
-    <p>
-      <a href="https://stop-war-for-ever.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&amp;logoColor=00aced&amp;style=flat" alt="STOP-WAR-FOR-EVER"></a>
-      <a href="https://abusosupremo.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&amp;logoColor=FED141&amp;style=flat" alt="ABUSO SUPREMO"></a>
-      <a href="https://futuroroubado.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&amp;logoColor=FED141&amp;style=flat" alt="FUTURO ROUBADO"></a>
-      <a href="https://abusofederal.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&amp;logoColor=FED141&amp;style=flat" alt="ABUSO FEDERAL"></a>
-      <a href="https://abaladademocracia.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&amp;logoColor=FED141&amp;style=flat" alt="DEMOCRACIA ABALADA"></a>
-    </p>
-    <p>
       <a class="mt-2" href="https://visitorbadge.io/status?path=https%3A%2F%2Flawfare-three.vercel.app%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Flawfare-three.vercel.app%2F&amp;label=%E2%9C%A0%20deram%20ciencia%20%E2%9C%A0&amp;countColor=%23132136&amp;style=flat&amp;labelStyle=lower"></a>
     </p>
     <p>
+      ✠ KODOISH KODOISH KODOISH ADONAI TSEBAYOTH ✠
+      </p>
+<blockquote>
+        “Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.” <br>
+        ~~ Jeremias 33:3
+      </blockquote>
+      <p>
+        <a href="https://stop-war-for-ever.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&amp;logoColor=00aced&amp;style=flat" alt="STOP-WAR-FOR-EVER"></a>
+        <a href="https://abusosupremo.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&amp;logoColor=FED141&amp;style=flat" alt="ABUSO SUPREMO"></a>
+        <a href="https://futuroroubado.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&amp;logoColor=FED141&amp;style=flat" alt="FUTURO ROUBADO"></a>
+        <a href="https://abusofederal.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&amp;logoColor=FED141&amp;style=flat" alt="ABUSO FEDERAL"></a>
+        <a href="https://abaladademocracia.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&amp;logoColor=FED141&amp;style=flat" alt="DEMOCRACIA ABALADA"></a>
+      </p>
       <a class="mt-2" href="#_main">⬆️ topo ⬆️</a>
-    </p>
+    
   </div>
   <hr class="sr-only">
 </footer>

@@ -61,6 +61,22 @@
     {
       "title": "tse",
       "path": "[[workspace]]/_posts/tse"
+    },
+    {
+      "title": "lawfare",
+      "path": "[[workspace]]/_posts/lawfare"
+    },
+    {
+      "title": "vazatoga",
+      "path": "[[workspace]]/_posts/vazatoga"
+    },
+    {
+      "title": "stf",
+      "path": "[[workspace]]/_posts/stf"
+    },
+    {
+      "title": "operacoes",
+      "path": "[[workspace]]/_posts/operacoes"
     }
   ],
   "frontMatter.git.enabled": true

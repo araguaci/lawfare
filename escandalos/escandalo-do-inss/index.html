@@ -33,7 +33,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Escândalo do INSS" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"LAWFARE"},"dateModified":"2025-08-13T13:36:35-03:00","datePublished":"2025-04-23T00:00:00-03:00","description":"Fraudes em benefícios previdenciários, com desvios de bilhões de reais para associações e sindicatos suspeitos.","headline":"Escândalo do INSS","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/escandalos/escandalo-do-inss/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/grok3.jpg"},"name":"LAWFARE"},"url":"http://localhost:4000/escandalos/escandalo-do-inss/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"LAWFARE"},"dateModified":"2025-08-19T17:59:48-03:00","datePublished":"2025-04-23T00:00:00-03:00","description":"Fraudes em benefícios previdenciários, com desvios de bilhões de reais para associações e sindicatos suspeitos.","headline":"Escândalo do INSS","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/escandalos/escandalo-do-inss/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/grok3.jpg"},"name":"LAWFARE"},"url":"http://localhost:4000/escandalos/escandalo-do-inss/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -119,7 +119,7 @@
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-08-17T00:57:09-03:00',
+    INDEX_KEY: 'index--2025-08-19T18:03:45-03:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -225,7 +225,87 @@
     , 0 -5px 6px #ff8000
     , 0 -5px 21px #F00;
   }
+  .mb6,
+  .other-projects {
+    margin-bottom: 12rem;
+  }
+  .navigation-card {
+  @extend .color-transition;
+  width: 100%;
+  padding-bottom: 1rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0.125rem 0.125rem 1rem rgba(0, 0, 0, 0.2);
+  contain: content;
+
+
+  /*
+   --body-color: #ccc;
+   --body-bg: var(--dark-mode-body-bg);
+   --border-color: var(--dark-mode-border-color);
+*/
+  color: var(--body-color);
+  background-color: #3b3b3f;
+  border-color: var(--dark-mode-border-color);
+
+  border-radius: $border-radius;
+
+  page-break-inside: avoid;
+
+  transition: transform 500ms ease;
+  will-change: transform;
+   &:hover {
+    transform: translateY(-0.25rem);
+    transition: transform 250ms ease;
+  }
+
+  > a.flip-project {
+    display: block;
+
+    .project-card-img {
+      margin-bottom: 0;
+      img {
+        display: block;
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+      }
+    }
+  }
+
+  a {
+    position: relative;
+    z-index: 1;
+
+    &.fill-card {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      z-index: 0;
+    }
+  }
+
+  > .project-card-title,
+  > .project-card-text {
+    text-align: center;
+    padding: 0 1rem;
+  }
+
+  > .project-card-title {
+    display: block;
+    font-size: 1.08rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
+    color: inherit;
+  }
+
+  > .project-card-text {
+    margin: 0.25rem 0;
+  }
+}
 </style>
+
 
 
 
@@ -294,8 +374,6 @@
 
 
 
-
-
 <article id="post-escandalos-escandalo-do-inss" class="page post mb6" role="article">
   <header>
     <h1 class="post-title flip-project-title">
@@ -316,10 +394,10 @@
           
             
             
-            <span class="ellipsis" data-tippy-content="Last modified at: 13 Aug 2025">
+            <span class="ellipsis" data-tippy-content="Last modified at: 19 Aug 2025">
               <span class="sr-only">Last modified at:</span>
               <span class="icon-history"></span>
-              <time datetime="2025-08-13T13:36:35-03:00">2025-08-13</time>
+              <time datetime="2025-08-19T17:59:48-03:00">2025-08-19</time>
             </span>
           
         
@@ -391,6 +469,66 @@
   
 </article>
 
+<!-- {# Início da Alteração: Navegação em cards estilizados com grid horizontal, ícones e títulos #} -->
+
+  <hr class="dingbat related mb6">
+
+
+  
+  
+
+  <!-- {# Posts ordenados: mais recente primeiro #} -->
+  
+{# Ordena os posts por data, do mais recente para o mais antigo #}
+
+  
+
+  
+  
+    
+  
+    
+  
+    
+  
+    
+      
+      
+
+  
+  
+
+  
+  
+    
+     {# Post anterior (mais antigo) #}
+  
+
+  
+    
+     {# Post próximo (mais recente) #}
+  
+
+  
+    <div class="post-navigation-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 20px 0;">
+      
+        <div class="navigation-card" style="padding: 15px; text-align: center; border-radius: 8px; ">
+          <i class="fa fa-arrow-left" style="font-size: 24px; margin-bottom: 10px; display: block;"></i>
+          <div style="font-weight: bold; margin-bottom: 5px;">Anterior</div>
+          <a href="/escandalos/taxa-das-blusinhas/" style="text-decoration: none; color: inherit;">Taxa das Blusinhas</a>
+        </div>
+      
+      
+        <div class="navigation-card" style="padding: 15px; text-align: center; border-radius: 8px; ">
+          <i class="fa fa-arrow-right" style="font-size: 24px; margin-bottom: 10px; display: block;"></i>
+          <div style="font-weight: bold; margin-bottom: 5px;">Próximo</div>
+          <a href="/estudos/justica/corrupcao/escandalos/corrupcao-no-judiciario-brasileiro/" style="text-decoration: none; color: inherit;">Corrupção no Judiciário Brasileiro</a>
+        </div>
+      
+    </div>
+  
+<!-- {# Fim da Alteração #} -->
+
 
   <hr class="dingbat related mb6">
 
@@ -400,7 +538,7 @@
 
 
   
-    
+      
 
 
   <aside class="about related mt4 mb4" role="complementary">
@@ -474,7 +612,7 @@
     
 
   
-    
+      
 
 
     <aside class="other-projects related mb0" role="complementary">    <h2>Artigos Relacionados</h2>    <div class="columns">              <div class="column column-1-2">                      <article class="project-card">  <a href="/estudos/justica/corrupcao/escandalos/corrupcao-sistemica-no-brasil/" class="no-hover no-print-link flip-project" tabindex="-1">    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">              <img src="/assets/img/inss.webp" sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem" alt="Corrupção Sistêmica no Brasil" width="864" height="486" loading="lazy">          </div>  </a>  <h3 class="project-card-title flip-project-title">    <a href="/estudos/justica/corrupcao/escandalos/corrupcao-sistemica-no-brasil/" class="flip-title">Corrupção Sistêmica no Brasil</a>  </h3>      <p class="project-card-text fine" property="disambiguatingDescription">      “Corrupção no Brasil pós-redemocratização. Paradoxo de instituições robustas vs. esquemas endêmicos adaptáveis. “    </p>      <a class="fill-card no-hover" href="/estudos/justica/corrupcao/escandalos/corrupcao-sistemica-no-brasil/" tabindex="-1">    <span class="sr-only">Continue reading Corrupção Sistêmica no Brasil</span>  </a></article>                  </div>              <div class="column column-1-2">                      <article class="project-card">  <a href="/estudos/justica/corrupcao/escandalos/escandalos-politicos/" class="no-hover no-print-link flip-project" tabindex="-1">    <div class="project-card-img aspect-ratio sixteen-nine flip-project-img">              <img src="/assets/img/operacoes.png" sizes="(min-width:86em)27.5rem,(min-width:54em)24.5rem,(min-width:42em)21.5rem,42rem" alt="Escândalos Políticos" width="864" height="486" loading="lazy">          </div>  </a>  <h3 class="project-card-title flip-project-title">    <a href="/estudos/justica/corrupcao/escandalos/escandalos-politicos/" class="flip-title">Escândalos Políticos</a>  </h3>      <p class="project-card-text fine" property="disambiguatingDescription">      A corrupção no Brasil, com desvios bilionários (R$ 42,8 bi na Lava Jato, R$ 6,3 bi no INSS), fere a ética coletiva, priorizando interesses privados sobre o bem comum. Urge integridade: reformas para transparência e punição, restaurando justiça social.    </p>      <a class="fill-card no-hover" href="/estudos/justica/corrupcao/escandalos/escandalos-politicos/" tabindex="-1">    <span class="sr-only">Continue reading Escândalos Políticos</span>  </a></article>                  </div>          </div>  </aside>
@@ -520,21 +658,24 @@
   
   <div class="flex justify-center items-center m-2">
     <p>
-      ✠ KODOISH KODOISH KODOISH ADONAI TSEBAYOTH ✠
-    </p>
-    <p>
-      <a href="https://stop-war-for-ever.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&amp;logoColor=00aced&amp;style=flat" alt="STOP-WAR-FOR-EVER"></a>
-      <a href="https://abusosupremo.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&amp;logoColor=FED141&amp;style=flat" alt="ABUSO SUPREMO"></a>
-      <a href="https://futuroroubado.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&amp;logoColor=FED141&amp;style=flat" alt="FUTURO ROUBADO"></a>
-      <a href="https://abusofederal.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&amp;logoColor=FED141&amp;style=flat" alt="ABUSO FEDERAL"></a>
-      <a href="https://abaladademocracia.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&amp;logoColor=FED141&amp;style=flat" alt="DEMOCRACIA ABALADA"></a>
-    </p>
-    <p>
       <a class="mt-2" href="https://visitorbadge.io/status?path=https%3A%2F%2Flawfare-three.vercel.app%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Flawfare-three.vercel.app%2F&amp;label=%E2%9C%A0%20deram%20ciencia%20%E2%9C%A0&amp;countColor=%23132136&amp;style=flat&amp;labelStyle=lower"></a>
     </p>
     <p>
+      ✠ KODOISH KODOISH KODOISH ADONAI TSEBAYOTH ✠
+      </p>
+<blockquote>
+        “Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.” <br>
+        ~~ Jeremias 33:3
+      </blockquote>
+      <p>
+        <a href="https://stop-war-for-ever.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&amp;logoColor=00aced&amp;style=flat" alt="STOP-WAR-FOR-EVER"></a>
+        <a href="https://abusosupremo.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&amp;logoColor=FED141&amp;style=flat" alt="ABUSO SUPREMO"></a>
+        <a href="https://futuroroubado.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&amp;logoColor=FED141&amp;style=flat" alt="FUTURO ROUBADO"></a>
+        <a href="https://abusofederal.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&amp;logoColor=FED141&amp;style=flat" alt="ABUSO FEDERAL"></a>
+        <a href="https://abaladademocracia.vercel.app" class="display-inline-block m-3"><img src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&amp;logoColor=FED141&amp;style=flat" alt="DEMOCRACIA ABALADA"></a>
+      </p>
       <a class="mt-2" href="#_main">⬆️ topo ⬆️</a>
-    </p>
+    
   </div>
   <hr class="sr-only">
 </footer>
